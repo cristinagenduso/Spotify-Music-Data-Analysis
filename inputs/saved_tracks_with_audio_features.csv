@@ -1,254 +1,274 @@
 Added At,Name,Album,Release Date,Artists,Genres,Popularity,Duration (ms),Acousticness,Danceability,Energy,Instrumentalness,Liveness,Loudness,Speechiness,Tempo,Valence
-2024-05-31T20:15:05Z,FEMME FATALE,FEMME FATALE,2024-05-02,Emma,"italian pop, italian adult pop",62,190714,0.123,0.685,0.802,0,0.125,-6.894,0.253,140.021,0.505
-2024-05-31T19:25:16Z,Amare,My Mamma,2021-03-05,La rappresentante di lista,"indie siciliano, italian pop, italian indie pop, italian alternative",46,200733,0.193,0.666,0.73,5.54e-06,0.185,-4.865,0.0492,129.88,0.195
-2024-05-31T19:17:18Z,Come Foglie,Malika Ayane (Deluxe Edition),2009-02-19,Malika Ayane,"classic italian pop, italian adult pop",54,225240,0.298,0.524,0.564,0,0.102,-6.234,0.0274,87.042,0.176
-2024-05-16T22:20:07Z,L'Ultima Volta,SARAH,2024-05-17,Sarah,"italian pop, indie",53,165000,0.499,0.637,0.894,0,0.496,-5.174,0.113,149.981,0.78
-2024-04-18T21:01:55Z,L'amore è un'altra cosa,Amami,2012-02-15,Arisa,italian adult pop,39,223753,0.657,0.607,0.494,0,0.114,-6.523,0.038,92.584,0.208
-2024-04-13T18:12:11Z,INIZIAMO DALLA FINE,SOUVENIR,2023-10-12,Emma,"italian pop, italian adult pop",57,193563,0.124,0.68,0.823,0,0.271,-3.41,0.0467,94.049,0.433
-2024-03-21T16:04:14Z,La Mia Città,Schiena,2013-01-01,Emma,"italian pop, italian adult pop",33,211493,0.0884,0.648,0.926,0,0.0702,-4.177,0.0394,135.91,0.92
-2024-01-25T15:25:18Z,IO ero io - Live,Nel Caos Di Stanze Stupefacenti LIVE 2017,2017-11-17,Levante,"italian pop, turin indie, italian adult pop",5,255625,0.838,0.318,0.543,0.0591,0.651,-7.482,0.0405,135.743,0.247
-2024-01-25T15:15:36Z,Gesù Cristo sono io,Nel Caos Di Stanze Stupefacenti,2017-04-07,Levante,"italian pop, turin indie, italian adult pop",36,193733,0.0343,0.671,0.96,0,0.162,-1.278,0.0822,139.951,0.633
-2024-01-19T15:08:13Z,Controtempo,RELAX,2023-10-20,Calcutta ,"italian pop, rome indie",61,224562,0.166,0.748,0.495,0.00159,0.16,-8.3,0.0547,94.008,0.732
-2024-01-19T15:07:43Z,"You're On Your Own, Kid",Midnights,2022-10-21,Taylor Swift,pop,78,194206,0.447,0.696,0.39,1.55e-05,0.125,-10.331,0.0616,120.032,0.395
-2024-01-19T14:59:18Z,Agosto,Agosto,2023-02-13,Efrem,pop,16,192000,0.76,0.571,0.374,0,0.177,-10.05,0.0308,79.987,0.0788
-2024-01-18T18:41:58Z,Cruel Summer,Lover,2019-08-23,Taylor Swift,pop,94,178426,0.117,0.552,0.702,2.06e-05,0.105,-5.707,0.157,169.994,0.564
-2024-01-18T18:41:57Z,You’re Losing Me (From The Vault),You're Losing Me (From The Vault),2023-11-29,Taylor Swift,pop,79,277831,0.509,0.744,0.396,0.00319,0.121,-13.712,0.057,102.969,0.18
-2023-12-17T22:26:38Z,Crazy For You,19,2008-11-17,Adele,"pop soul, uk pop, pop, british soul",50,208040,0.91,0.707,0.139,0,0.105,-12.3,0.0507,85.868,0.323
-2023-12-10T10:23:45Z,Christmas Tree Farm,Christmas Tree Farm,2019-12-06,Taylor Swift,pop,56,228026,0.06,0.598,0.68,0,0.324,-4.505,0.0331,134.002,0.437
-2023-12-06T12:41:34Z,Anti-Hero,Midnights,2022-10-21,Taylor Swift,pop,85,200690,0.121,0.633,0.648,2.62e-06,0.161,-6.645,0.062,96.888,0.49
-2023-12-02T15:11:12Z,MEZZO MONDO,SOUVENIR,2023-10-12,Emma,"italian pop, italian adult pop",28,214958,0.295,0.836,0.706,0,0.103,-5.663,0.0391,121.069,0.876
-2023-11-14T12:00:45Z,Ghiaccioli,RELAX,2023-10-20,Calcutta ,"italian pop, rome indie",46,187315,0.555,0.738,0.555,1.32e-05,0.0938,-8.591,0.0362,101.139,0.649
-2023-11-09T11:30:26Z,2minuti,RELAX,2023-10-20,Calcutta ,"italian pop, rome indie",66,214291,0.157,0.764,0.593,1.94e-06,0.144,-7.853,0.029,122.959,0.668
-2023-10-06T15:30:01Z,INIZIAMO DALLA FINE,INIZIAMO DALLA FINE,2023-08-31,Emma,"italian pop, italian adult pop",1,193563,0.111,0.679,0.801,0,0.268,-4.263,0.0476,94.04,0.437
-2023-09-22T14:34:16Z,RUMORE,RUMORE,2023-09-11,ARIETE,"italian hip hop, rome indie, italian pop",0,159306,0.836,0.613,0.364,0,0.303,-9.326,0.0412,147.88,0.334
-2023-08-25T08:40:48Z,Alta marea,Alta marea,2023-06-16,"Coez, Frah Quintale","italian hip hop, italian indie pop, rome indie, milan indie, rap napoletano, italian pop, italian adult pop",57,171903,0.054,0.737,0.75,0,0.123,-5.692,0.0432,109.988,0.813
-2023-08-08T09:01:07Z,Scusa Se Vado Via,Sarò Libera (Sanremo Edition),2011,Emma,"italian pop, italian adult pop",7,222080,0.401,0.384,0.786,0,0.112,-4.385,0.0766,203.898,0.607
-2023-08-07T11:21:26Z,Corri,Fortuna,2020-08-27,Emma,"italian pop, italian adult pop",20,223293,0.0466,0.731,0.577,0,0.0605,-6.764,0.0489,124.033,0.407
-2023-07-29T09:28:16Z,Sarò Libera,Sarò Libera,2011-01-01,Emma,"italian pop, italian adult pop",19,202680,0.519,0.54,0.667,0,0.107,-4.272,0.0514,119.434,0.302
-2023-07-07T13:50:45Z,happier,SOUR,2021-05-21,Olivia Rodrigo,pop,84,175933,0.765,0.395,0.443,9.67e-06,0.0839,-9.72,0.133,168.924,0.338
-2023-07-07T13:50:44Z,favorite crime,SOUR,2021-05-21,Olivia Rodrigo,pop,84,152666,0.866,0.369,0.272,0,0.147,-10.497,0.0364,172.929,0.218
-2023-07-07T13:50:40Z,traitor,SOUR,2021-05-21,Olivia Rodrigo,pop,86,229226,0.691,0.38,0.339,0,0.12,-7.885,0.0338,100.607,0.0849
-2023-07-07T13:50:39Z,deja vu,SOUR,2021-05-21,Olivia Rodrigo,pop,85,215506,0.584,0.442,0.612,5.7e-06,0.37,-7.222,0.112,180.917,0.178
-2023-07-07T13:50:37Z,good 4 u,SOUR,2021-05-21,Olivia Rodrigo,pop,84,178146,0.335,0.563,0.664,0,0.0849,-5.044,0.154,166.928,0.688
+2024-06-19T14:35:59Z,I Wish You Would (Taylor's Version),1989 (Taylor's Version),2023-10-26,Taylor Swift,pop,64,207650,0.00388,0.671,0.853,9.48e-06,0.0812,-6.568,0.0417,118.032,0.523
+2024-06-19T14:16:02Z,Flowers,Endless Summer Vacation,2023-08-18,Miley Cyrus,pop,86,200600,0.0584,0.706,0.691,6.99e-05,0.0232,-4.775,0.0633,118.048,0.632
+2024-06-17T18:05:10Z,Dimmelo Veramente,Fortuna,2020-08-27,Emma,"italian adult pop, italian pop",11,197693,0.00195,0.636,0.819,5.67e-06,0.128,-6.496,0.0383,135.073,0.686
+2024-06-12T18:37:59Z,Lockbox,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,7,205423,0.031,0.579,0.622,7.58e-06,0.365,-8.062,0.0515,117.907,0.653
+2024-06-12T18:37:51Z,Mustang,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,9,238275,0.0142,0.493,0.564,0.000208,0.127,-4.564,0.0318,119.903,0.382
+2024-06-12T18:37:50Z,All in My Head,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,7,219692,0.553,0.375,0.377,1.12e-06,0.0881,-8.012,0.0308,130.079,0.522
+2024-06-12T18:37:49Z,Ended up in Arkansas,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,9,166252,0.0265,0.488,0.584,7.2e-05,0.0834,-7.444,0.0413,173.739,0.561
+2024-06-12T18:37:48Z,I Hate All Your Friends,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,5,156610,0.0531,0.412,0.679,0.000264,0.339,-5.691,0.0394,117.886,0.292
+2024-06-12T18:37:46Z,16,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,8,163333,0.574,0.431,0.565,0.015,0.165,-7.031,0.0289,179.819,0.314
+2024-06-12T18:37:45Z,Brown Mascara,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,8,180000,0.0374,0.522,0.541,0,0.316,-6.694,0.0346,119.949,0.163
+2024-06-12T18:37:44Z,Fall,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,7,184000,0.153,0.495,0.34,0,0.111,-8.512,0.0276,93.021,0.238
+2024-06-11T19:09:36Z,Skyscraper,CimFam EP,2011-01-01,Cimorelli,viral pop,7,229683,0.461,0.296,0.528,0,0.333,-5.547,0.0426,208.036,0.209
+2024-06-10T09:17:59Z,don't think about it,don't think about it,2024-05-03,Cimorelli,viral pop,23,194416,0.274,0.356,0.328,2.12e-05,0.106,-10.592,0.0375,89.329,0.129
+2024-06-10T08:21:55Z,Kills Me Just the Same,Kills Me Just the Same,2022-02-25,Cimorelli,viral pop,29,219646,0.315,0.345,0.581,0,0.161,-7.682,0.0441,76.442,0.375
+2024-06-07T20:02:29Z,MALAVITA,MALAVITA,2024-04-26,Coma_Cose,"italian pop, italian adult pop, italian alternative, milan indie, italian indie pop",62,166725,0.104,0.655,0.887,0,0.314,-3.559,0.143,112.938,0.511
+2024-06-07T17:07:57Z,Too Much,Too Much,2024-02-09,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",57,183473,0.233,0.53,0.609,7.75e-06,0.108,-5.977,0.0625,161.973,0.378
+2024-06-07T11:33:51Z,Ruined Me,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,10,252000,0.23,0.483,0.714,0,0.101,-4.816,0.0352,89.927,0.353
+2024-06-07T08:13:36Z,R.I.P.,Please Stop Breaking My Heart,2023-02-03,Lauren Cimorelli,,8,191186,0.0201,0.326,0.526,2.68e-05,0.124,-6.768,0.0444,65.219,0.328
+2024-06-06T14:44:00Z,OSSA ROTTE,OSSA ROTTE,2024-05-02,ARIETE,"rome indie, italian hip hop, italian pop",48,173924,0.106,0.584,0.546,8.67e-05,0.253,-7.572,0.0254,111.977,0.434
+2024-06-06T14:43:57Z,SKINNY,HIT ME HARD AND SOFT,2024-05-17,Billie Eilish,"art pop, pop",84,219733,0.693,0.251,0.252,0.00706,0.0968,-14.478,0.0375,69.988,0.0395
+2024-06-06T14:43:57Z,THE GREATEST,HIT ME HARD AND SOFT,2024-05-17,Billie Eilish,"art pop, pop",85,293840,0.637,0.407,0.192,3.33e-06,0.21,-10.99,0.0368,128.173,0.159
+2024-06-06T14:43:55Z,The Smallest Man Who Ever Lived,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Taylor Swift,pop,81,245541,0.52,0.426,0.41,0,0.338,-9.083,0.0581,142.377,0.263
+2024-06-06T14:43:54Z,I Can Do It With a Broken Heart,THE TORTURED POETS DEPARTMENT: THE ANTHOLOGY,2024-04-19,Taylor Swift,pop,82,218004,0.123,0.701,0.751,0,0.15,-8.39,0.0502,129.994,0.22
+2024-05-31T20:15:05Z,FEMME FATALE,FEMME FATALE,2024-05-02,Emma,"italian adult pop, italian pop",59,190714,0.123,0.685,0.802,0,0.125,-6.894,0.253,140.021,0.505
+2024-05-31T19:25:16Z,Amare,My Mamma,2021-03-05,La rappresentante di lista,"italian indie pop, italian pop, indie siciliano, italian alternative",41,200733,0.193,0.666,0.73,5.54e-06,0.185,-4.865,0.0492,129.88,0.195
+2024-05-31T19:17:18Z,Come Foglie,Malika Ayane (Deluxe Edition),2009-02-19,Malika Ayane,"classic italian pop, italian adult pop",50,225240,0.298,0.524,0.564,0,0.102,-6.234,0.0274,87.042,0.176
+2024-05-16T22:20:07Z,L'Ultima Volta,SARAH,2024-05-17,Sarah,,48,165000,0.499,0.637,0.894,0,0.496,-5.174,0.113,149.981,0.78
+2024-04-18T21:01:55Z,L'amore è un'altra cosa,Amami,2012-02-15,Arisa,"classic italian pop, italian adult pop",33,223753,0.657,0.607,0.494,0,0.114,-6.523,0.038,92.584,0.208
+2024-04-13T18:12:11Z,INIZIAMO DALLA FINE,SOUVENIR,2023-10-12,Emma,"italian adult pop, italian pop",51,193563,0.124,0.68,0.823,0,0.271,-3.41,0.0467,94.049,0.433
+2024-03-21T16:04:14Z,La Mia Città,Schiena,2013-01-01,Emma,"italian adult pop, italian pop",28,211493,0.0884,0.648,0.926,0,0.0702,-4.177,0.0394,135.91,0.92
+2024-01-25T15:25:18Z,IO ero io - Live,Nel Caos Di Stanze Stupefacenti LIVE 2017,2017-11-17,Levante,"italian adult pop, turin indie, italian pop",3,255625,0.838,0.318,0.543,0.0591,0.651,-7.482,0.0405,135.743,0.247
+2024-01-25T15:15:36Z,Gesù Cristo sono io,Nel Caos Di Stanze Stupefacenti,2017-04-07,Levante,"italian adult pop, turin indie, italian pop",30,193733,0.0343,0.671,0.96,0,0.162,-1.278,0.0822,139.951,0.633
+2024-01-19T15:08:13Z,Controtempo,RELAX,2023-10-20,Calcutta ,"italian adult pop, rome indie, italian pop",56,224562,0.166,0.748,0.495,0.00159,0.16,-8.3,0.0547,94.008,0.732
+2024-01-19T15:07:43Z,"You're On Your Own, Kid",Midnights,2022-10-21,Taylor Swift,pop,73,194206,0.447,0.696,0.39,1.55e-05,0.125,-10.331,0.0616,120.032,0.395
+2024-01-19T14:59:18Z,Agosto,Agosto,2023-02-13,Efrem,,11,192000,0.76,0.571,0.374,0,0.177,-10.05,0.0308,79.987,0.0788
+2024-01-18T18:41:58Z,Cruel Summer,Lover,2019-08-23,Taylor Swift,pop,89,178426,0.117,0.552,0.702,2.06e-05,0.105,-5.707,0.157,169.994,0.564
+2024-01-18T18:41:57Z,You’re Losing Me (From The Vault),You're Losing Me (From The Vault),2023-11-29,Taylor Swift,pop,74,277831,0.509,0.744,0.396,0.00319,0.121,-13.712,0.057,102.969,0.18
+2023-12-17T22:26:38Z,Crazy For You,19,2008-11-17,Adele,"pop soul, uk pop, pop, british soul",45,208040,0.91,0.707,0.139,0,0.105,-12.3,0.0507,85.868,0.323
+2023-12-10T10:23:45Z,Christmas Tree Farm,Christmas Tree Farm,2019-12-06,Taylor Swift,pop,51,228026,0.06,0.598,0.68,0,0.324,-4.505,0.0331,134.002,0.437
+2023-12-06T12:41:34Z,Anti-Hero,Midnights,2022-10-21,Taylor Swift,pop,80,200690,0.121,0.633,0.648,2.62e-06,0.161,-6.645,0.062,96.888,0.49
+2023-12-02T15:11:12Z,MEZZO MONDO,SOUVENIR,2023-10-12,Emma,"italian adult pop, italian pop",17,214958,0.295,0.836,0.706,0,0.103,-5.663,0.0391,121.069,0.876
+2023-11-14T12:00:45Z,Ghiaccioli,RELAX,2023-10-20,Calcutta ,"italian adult pop, rome indie, italian pop",42,187315,0.555,0.738,0.555,1.32e-05,0.0938,-8.591,0.0362,101.139,0.649
+2023-11-09T11:30:26Z,2minuti,RELAX,2023-10-20,Calcutta ,"italian adult pop, rome indie, italian pop",60,214291,0.157,0.764,0.593,1.94e-06,0.144,-7.853,0.029,122.959,0.668
+2023-10-06T15:30:01Z,INIZIAMO DALLA FINE,INIZIAMO DALLA FINE,2023-08-31,Emma,"italian adult pop, italian pop",0,193563,0.111,0.679,0.801,0,0.268,-4.263,0.0476,94.04,0.437
+2023-09-22T14:34:16Z,RUMORE,RUMORE,2023-09-11,ARIETE,"rome indie, italian hip hop, italian pop",0,159306,0.836,0.613,0.364,0,0.303,-9.326,0.0412,147.88,0.334
+2023-08-25T08:40:48Z,Alta marea,Alta marea,2023-06-16,"Coez, Frah Quintale","italian pop, italian adult pop, rome indie, milan indie, italian indie pop, italian hip hop, rap napoletano",52,171903,0.054,0.737,0.75,0,0.123,-5.692,0.0432,109.988,0.813
+2023-08-08T09:01:07Z,Scusa Se Vado Via,Sarò Libera (Sanremo Edition),2011,Emma,"italian adult pop, italian pop",4,222080,0.401,0.384,0.786,0,0.112,-4.385,0.0766,203.898,0.607
+2023-08-07T11:21:26Z,Corri,Fortuna,2020-08-27,Emma,"italian adult pop, italian pop",15,223293,0.0466,0.731,0.577,0,0.0605,-6.764,0.0489,124.033,0.407
+2023-07-29T09:28:16Z,Sarò Libera,Sarò Libera,2011-01-01,Emma,"italian adult pop, italian pop",14,202680,0.519,0.54,0.667,0,0.107,-4.272,0.0514,119.434,0.302
+2023-07-07T13:50:45Z,happier,SOUR,2021-05-21,Olivia Rodrigo,pop,79,175933,0.765,0.395,0.443,9.67e-06,0.0839,-9.72,0.133,168.924,0.338
+2023-07-07T13:50:44Z,favorite crime,SOUR,2021-05-21,Olivia Rodrigo,pop,79,152666,0.866,0.369,0.272,0,0.147,-10.497,0.0364,172.929,0.218
+2023-07-07T13:50:40Z,traitor,SOUR,2021-05-21,Olivia Rodrigo,pop,81,229226,0.691,0.38,0.339,0,0.12,-7.885,0.0338,100.607,0.0849
+2023-07-07T13:50:39Z,deja vu,SOUR,2021-05-21,Olivia Rodrigo,pop,80,215506,0.584,0.442,0.612,5.7e-06,0.37,-7.222,0.112,180.917,0.178
+2023-07-07T13:50:37Z,good 4 u,SOUR,2021-05-21,Olivia Rodrigo,pop,79,178146,0.335,0.563,0.664,0,0.0849,-5.044,0.154,166.928,0.688
 2023-07-07T13:50:01Z,vampire,vampire,2023-06-30,Olivia Rodrigo,pop,17,219724,0.148,0.484,0.53,0,0.283,-5.82,0.054,136.874,0.319
-2023-07-03T17:56:34Z,.,if i could make it go quiet,2021-04-30,girl in red,"indie, indie pop, norwegian indie, bedroom pop",64,166240,0.0838,0.451,0.907,0.832,0.137,-7.362,0.291,151.988,0.317
-2023-07-03T17:56:29Z,midnight love,if i could make it go quiet,2021-04-30,girl in red,"indie, indie pop, norwegian indie, bedroom pop",67,193928,0.717,0.284,0.538,0.105,0.111,-9.894,0.0886,179.708,0.259
-2023-07-03T17:55:43Z,Body And Mind,if i could make it go quiet,2021-04-30,girl in red,"indie, indie pop, norwegian indie, bedroom pop",57,186672,0.0718,0.575,0.572,0,0.0995,-5.928,0.0635,150.894,0.551
-2023-07-01T17:27:35Z,Rue,Rue,2020-08-26,girl in red,"indie, indie pop, norwegian indie, bedroom pop",31,216831,0.102,0.582,0.772,0.0449,0.168,-9.438,0.0559,124.975,0.273
-2023-07-01T13:55:16Z,Yellow,Parachutes,2000-07-10,Coldplay,"permanent wave, pop",88,266773,0.00239,0.429,0.661,0.000121,0.234,-7.227,0.0281,173.372,0.285
-2023-06-29T13:06:55Z,CICATRICI (feat. Madame),SPECCHIO,2022-02-24,"ARIETE, Madame","italian hip hop, rome indie, trap italiana, italian pop",52,173075,0.582,0.542,0.508,0,0.106,-9.573,0.101,76.697,0.238
-2023-06-29T13:06:55Z,SPIFFERI,SPECCHIO,2022-02-24,ARIETE,"italian hip hop, rome indie, italian pop",53,206093,0.882,0.431,0.317,0,0.0931,-11.571,0.0572,92.878,0.391
-2023-06-28T13:33:09Z,CAMPO MINATO (feat. ARIETE),"RAVE, ECLISSI",2022-11-24,"Tananai, ARIETE","rome indie, italian pop, italian hip hop, italian adult pop",51,195344,0.467,0.536,0.438,0,0.15,-7.422,0.0449,87.115,0.267
-2023-06-06T08:52:11Z,Hearts,Glasshouse,2017-10-20,Jessie Ware,"electropop, pop soul, british soul, uk pop, neo soul",36,213946,0.628,0.508,0.363,6.42e-06,0.0844,-8.39,0.0457,104.725,0.168
-2023-04-26T17:20:55Z,Ghosts,The Elefant Collective,2023-04-26,"The Elefant Collective, Zara Beth",pop,14,194586,0.904,0.662,0.109,0,0.25,-16.586,0.0377,109.898,0.319
-2023-04-17T16:57:35Z,She's Mine,She's Mine,2022-07-10,Zara Beth,pop,23,248998,0.921,0.356,0.119,0.00876,0.112,-21.381,0.0347,132.261,0.0469
-2023-04-01T11:56:57Z,betty,folklore,2020-07-24,Taylor Swift,pop,73,294521,0.6,0.593,0.377,0,0.0976,-8.761,0.0253,95.939,0.502
-2023-03-15T18:15:06Z,Sembra quasi,Tante care cose e altri successi,2022-03-11,Fulminacci,"italian pop, italian indie pop, rome indie",38,198040,0.812,0.622,0.445,0,0.121,-8.161,0.0288,141.933,0.391
-2023-03-14T17:25:13Z,Duemilaminuti,Duemilaminuti,2023-02-08,Mara Sattei,"italian hip hop, italian pop",55,224993,0.195,0.54,0.633,0,0.0376,-4.643,0.0391,132.823,0.193
-2023-03-02T17:09:57Z,Iride blu e Cuore liquido,Opera Futura,2023-02-17,Levante,"italian pop, turin indie, italian adult pop",26,186428,0.676,0.532,0.634,0,0.361,-3.763,0.033,139.579,0.308
-2023-03-02T17:09:54Z,Leggera,Opera Futura,2023-02-17,Levante,"italian pop, turin indie, italian adult pop",37,185169,0.0319,0.658,0.867,0.000751,0.375,-3.238,0.0669,126.076,0.485
-2023-03-02T17:09:52Z,Metro,Opera Futura,2023-02-17,Levante,"italian pop, turin indie, italian adult pop",30,157279,0.278,0.725,0.719,1.77e-06,0.109,-4.183,0.0288,135.943,0.582
-2023-03-02T17:09:50Z,Mi manchi,Opera Futura,2023-02-17,Levante,"italian pop, turin indie, italian adult pop",36,194117,0.716,0.411,0.641,0,0.224,-3.951,0.0379,82.323,0.511
-2023-03-02T17:09:48Z,Invincibile,Opera Futura,2023-02-17,Levante,"italian pop, turin indie, italian adult pop",26,233235,0.48,0.456,0.812,0,0.143,-3.109,0.0353,140.08,0.281
-2023-02-13T15:43:16Z,IL BENE NEL MALE,IL BENE NEL MALE,2023-02-09,Madame,"italian hip hop, trap italiana, italian pop",55,213143,0.243,0.828,0.708,0.115,0.094,-8.647,0.0521,119.015,0.62
-2023-02-09T11:24:24Z,Vivo,Vivo,2023-02-09,Levante,"italian pop, turin indie, italian adult pop",39,201425,0.494,0.561,0.867,0,0.107,-3.221,0.0664,119.948,0.481
-2023-02-08T08:13:20Z,MARE DI GUAI,MARE DI GUAI,2023-02-08,ARIETE,"italian hip hop, rome indie, italian pop",48,204486,0.17,0.587,0.549,0,0.188,-6.045,0.042,131.996,0.324
-2023-02-05T15:48:19Z,Normale,Normale,2022-11-04,Giorgia,"classic italian pop, italian adult pop",27,194330,0.482,0.477,0.697,0,0.0959,-6.09,0.0847,114.869,0.343
-2023-01-23T19:03:09Z,First Love,19,2008-11-17,Adele,"pop soul, uk pop, pop, british soul",36,190280,0.985,0.683,0.112,0.00552,0.09,-13.461,0.0338,81.355,0.337
-2023-01-23T19:03:07Z,Melt My Heart to Stone,19,2008-11-17,Adele,"pop soul, uk pop, pop, british soul",49,203906,0.346,0.353,0.388,0,0.215,-7.091,0.0366,80.67,0.19
-2023-01-23T19:03:02Z,Lovesong,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",59,316240,0.693,0.689,0.369,0.00236,0.111,-9.407,0.0278,116.885,0.361
-2023-01-23T19:03:01Z,One And Only,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",60,348226,0.295,0.528,0.468,0,0.165,-5.306,0.0287,154.974,0.185
-2023-01-23T19:02:59Z,Don't You Remember,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",63,243200,0.214,0.644,0.4,0,0.0866,-5.713,0.0304,115.025,0.227
-2023-01-23T19:02:58Z,He Won't Go,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",55,278040,0.0225,0.706,0.57,0,0.0754,-7.045,0.086,159.908,0.728
-2023-01-23T19:02:54Z,Rumour Has It,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",65,223266,0.615,0.612,0.749,0,0.167,-5.014,0.0446,120.052,0.574
-2023-01-23T19:02:49Z,Remedy,25,2015-11-20,Adele,"pop soul, uk pop, pop, british soul",61,245426,0.894,0.405,0.3,0,0.154,-6.475,0.0378,162.355,0.24
-2023-01-23T19:02:43Z,Love Is A Game,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",61,403044,0.453,0.269,0.591,0.000695,0.0702,-5.79,0.0416,183.793,0.228
-2023-01-23T19:02:39Z,My Little Love,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",63,389107,0.829,0.339,0.492,0.00377,0.147,-10.661,0.0559,151.865,0.102
-2023-01-23T19:02:37Z,I Drink Wine,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",71,376169,0.697,0.437,0.565,0,0.119,-5.596,0.0466,115.389,0.306
-2023-01-23T19:02:35Z,Can I Get It,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",67,210384,0.0171,0.703,0.68,0,0.178,-6.118,0.0431,97.985,0.536
-2023-01-23T12:53:42Z,Ciao Ciao,Ciao Ciao,2022-02-02,La rappresentante di lista,"indie siciliano, italian pop, italian indie pop, italian alternative",53,184311,0.125,0.747,0.819,2.61e-06,0.331,-4.602,0.134,117.994,0.637
-2022-11-30T16:15:00Z,Punk,Punk,2018-11-30,Gazzelle,"italian pop, rome indie, italian adult pop",0,233760,0.526,0.657,0.438,0.00287,0.138,-5.587,0.0314,133.857,0.349
-2022-11-23T21:19:42Z,To Be Loved,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",63,403961,0.843,0.356,0.176,0,0.231,-8.291,0.0391,170.425,0.289
-2022-11-12T08:03:41Z,Love In The Dark,25,2015-11-20,Adele,"pop soul, uk pop, pop, british soul",79,285935,0.528,0.331,0.341,0,0.109,-6.057,0.0309,109.821,0.152
-2022-11-11T20:07:37Z,ilomilo,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,Billie Eilish,"pop, art pop",75,156370,0.724,0.855,0.423,0.469,0.0896,-15.044,0.0585,120.02,0.572
-2022-11-11T16:41:54Z,Fear Me,Fear Me,2022-09-29,"JLYN, Silverberg, Alaina Cross",bossbeat,27,136895,9.9e-05,0.551,0.733,0.343,0.0689,-7.093,0.138,123.955,0.398
-2022-11-11T16:34:20Z,"I am not a woman, I'm a god","If I Can’t Have Love, I Want Power",2021-08-27,Halsey,"indie poptimism, electropop, pop, etherpop",52,176413,0.00375,0.517,0.7,0.0385,0.0634,-6.568,0.0452,179.986,0.518
-2022-11-11T12:27:51Z,Darkest Hour,Shabrang,2020-08-28,Sevdaliza,"alternative r&b, persian electronic, escape room",44,268800,0.289,0.688,0.698,0.786,0.11,-9.739,0.0471,99.998,0.0769
-2022-11-11T12:27:44Z,Hymn for Her,Hymn for Her,2022-02-11,Ames,melancholia,37,142016,0.714,0.483,0.12,0.000137,0.111,-16.11,0.0448,77.899,0.221
-2022-11-10T13:20:34Z,E.T.,Teenage Dream: The Complete Confection,2012-03-12,Katy Perry,pop,68,206373,0.0213,0.603,0.871,0,0.364,-5.404,0.08,150.103,0.69
-2022-11-07T16:22:30Z,Icaro,Icaro,2022-11-04,Efrem,pop,21,166754,0.844,0.427,0.491,0,0.0922,-6.452,0.029,100.197,0.317
-2022-11-03T14:53:58Z,Vuoto a perdere,RossoNoemi,2011-03-22,Noemi,"italian pop, italian adult pop",48,243293,0.0474,0.503,0.803,0,0.199,-4.511,0.0278,98.016,0.225
-2022-11-03T14:48:10Z,Bella stronza,Il Cielo Della Vergine,1994-12-01,Marco Masini,"classic italian pop, italian adult pop",49,321600,0.332,0.526,0.471,0,0.0914,-6.723,0.0306,107.646,0.273
-2022-10-16T10:10:49Z,I'll Call You Mine,if i could make it go quiet,2021-04-30,girl in red,"indie, indie pop, norwegian indie, bedroom pop",63,201945,0.173,0.612,0.727,5.61e-05,0.273,-5.141,0.0492,119.907,0.677
-2022-10-16T10:10:42Z,October Passed Me By,October Passed Me By,2022-10-14,girl in red,"indie, indie pop, norwegian indie, bedroom pop",63,165746,0.747,0.513,0.372,0.0572,0.102,-13.005,0.042,78.036,0.218
-2022-10-16T10:10:19Z,i wanna be your girlfriend,i wanna be your girlfriend,2018-03-02,girl in red,"indie, indie pop, norwegian indie, bedroom pop",74,204990,0.0215,0.541,0.382,0.000836,0.304,-14.323,0.035,155.901,0.343
-2022-10-16T10:10:17Z,bad idea!,bad idea!,2019-09-03,girl in red,"indie, indie pop, norwegian indie, bedroom pop",72,219638,0.0289,0.513,0.807,0.0548,0.246,-6.095,0.0481,162.026,0.419
-2022-10-16T10:10:16Z,we fell in love in october,we fell in love in october / forget her,2018-11-21,girl in red,"indie, indie pop, norwegian indie, bedroom pop",0,184153,0.113,0.566,0.366,0.181,0.155,-12.808,0.028,129.96,0.237
-2022-10-11T16:57:26Z,Chitarre blu,Tante care cose e altri successi,2022-03-11,Fulminacci,"italian pop, italian indie pop, rome indie",0,175946,0.752,0.676,0.417,4.03e-06,0.365,-8.383,0.252,79.957,0.486
-2022-10-05T17:58:22Z,Al Giusto Momento,La Vita Veramente,2019-04-10,Fulminacci,"italian pop, italian indie pop, rome indie",0,216506,0.0632,0.706,0.495,4.44e-05,0.321,-6.651,0.0373,90.01,0.53
-2022-09-26T05:24:13Z,2 Be Loved (Am I Ready),Special,2022-07-14,Lizzo,"minnesota hip hop, escape room, pop, trap queen",66,187107,0.0922,0.721,0.769,0,0.0817,-4.111,0.105,155.932,0.915
-2022-09-14T07:50:24Z,Birds,Birds,2019-03-29,Kat Cunning,"hip hop, indie",0,203962,0.432,0.545,0.411,0,0.301,-6.368,0.0415,132.213,0.25
-2022-09-14T07:49:15Z,Seventeen,Remind Me Tomorrow,2019-01-18,Sharon Van Etten,"melancholia, indie rock, singer-songwriter, art pop, new jersey indie, chamber pop",58,265920,0.0164,0.538,0.774,0.265,0.0685,-7.359,0.0484,127.107,0.249
-2022-09-13T06:53:54Z,King of Shadow,King of Shadow,2019-06-14,Kat Cunning,indie rock,42,196007,0.126,0.591,0.547,0,0.174,-8.596,0.0284,116.017,0.253
-2022-09-06T10:27:37Z,The One That Got Away,Teenage Dream: The Complete Confection,2012-03-12,Katy Perry,pop,71,227333,0.000802,0.688,0.792,0,0.2,-4.023,0.0353,133.958,0.863
-2022-08-23T08:18:00Z,Fire for You,Shadows,2019-07-12,Cannons,chillwave,70,231825,0.114,0.737,0.678,0.157,0.123,-7.011,0.0962,102.051,0.698
-2022-07-13T17:44:15Z,E yo mamma,Faccio un casino,2017-05-05,Coez,"rap napoletano, italian pop, rome indie, italian adult pop",59,201853,0.838,0.711,0.232,0,0.0844,-10.165,0.0795,139.785,0.361
-2022-06-20T08:35:31Z,Snowflakes,Dreamweaver,2015-06-09,Christoffer Franzen,alternative pop,2,130204,0.975,0.223,0.158,0.951,0.0908,-17.037,0.036,133.003,0.039
-2022-06-10T12:17:18Z,Il giorno prima del giorno dell'inizio non ha mai avuto fine,Magmamemoria,2019-10-04,Levante,"italian pop, turin indie, italian adult pop",0,234066,0.511,0.307,0.416,1.34e-06,0.131,-8.361,0.0396,68.701,0.258
-2022-06-10T12:16:39Z,Ridere,Fuori dall'Hype Ringo Starr,2020-02-07,Pinguini Tattici Nucleari,"bergamo indie, italian pop, italian indie pop, milan indie",67,214733,0.0493,0.713,0.902,0,0.0781,-3.009,0.0378,116.909,0.72
-2022-06-08T07:46:29Z,I Wanna Be Yours,AM,2013-09-09,Arctic Monkeys,"sheffield indie, garage rock, modern rock, rock, permanent wave",92,183956,0.136,0.464,0.417,0.022,0.0974,-9.345,0.0256,67.528,0.479
-2022-06-04T12:32:40Z,Wildest Dreams (Taylor's Version),Wildest Dreams (Taylor's Version),2021-09-17,Taylor Swift,pop,75,220433,0.0374,0.583,0.67,0.0001,0.126,-7.289,0.0646,140.061,0.498
-2022-05-10T09:32:24Z,Luna Storta,Luna Storta,2022-05-06,Opposite,pop,12,207741,0.525,0.766,0.538,0,0.0777,-5.318,0.0316,92.951,0.616
-2022-05-02T08:15:03Z,watch,dont smile at me,2017-12-22,Billie Eilish,"pop, art pop",79,177523,0.333,0.441,0.599,0.00198,0.103,-8.985,0.225,165.212,0.35
-2022-05-02T08:01:02Z,Ciao per sempre,Abbi cura di te,2015-05-05,Levante,"italian pop, turin indie, italian adult pop",22,205760,0.0728,0.698,0.565,0.00212,0.106,-5.866,0.0335,102.994,0.342
-2022-05-02T08:01:00Z,idontwannabeyouanymore,dont smile at me,2017-12-22,Billie Eilish,"pop, art pop",78,203569,0.737,0.483,0.412,0,0.116,-8.461,0.0402,170.163,0.247
-2022-04-22T15:25:48Z,In Ogni Angolo Di Me,LA MIA CITTA',2022-03-08,Emma,"italian pop, italian adult pop",7,221786,0.402,0.572,0.764,0,0.0811,-4.192,0.036,97.964,0.405
-2022-04-19T17:51:15Z,Incredibile Voglia Di Niente,Essere Qui - Boom Edition,2018-11-16,Emma,"italian pop, italian adult pop",16,212777,0.0967,0.615,0.55,0,0.0873,-10.527,0.0401,102.042,0.22
-2022-03-31T17:49:46Z,Resta Ancora Un Po',E Live,2014-11-11,Emma,"italian pop, italian adult pop",30,213906,0.147,0.53,0.762,0,0.113,-2.77,0.0349,143.833,0.213
-2022-03-31T17:45:29Z,Trattengo Il Fiato,Schiena,2013-01-01,Emma,"italian pop, italian adult pop",38,238666,0.573,0.628,0.619,0,0.111,-4.772,0.0316,118.877,0.387
-2021-12-04T22:09:21Z,Hold On,Hold On,2017-02-03,Chord Overstreet,"singer-songwriter pop, acoustic pop",79,198853,0.469,0.618,0.443,0,0.0829,-9.681,0.0526,119.949,0.167
-2021-11-18T16:06:01Z,Come nelle canzoni,Come nelle canzoni,2021-11-05,Coez,"rap napoletano, italian pop, rome indie, italian adult pop",50,212897,0.252,0.537,0.814,0,0.117,-5.855,0.281,175.878,0.505
-2021-10-16T16:19:52Z,Easy On Me,Easy On Me,2021-10-14,Adele,"pop soul, uk pop, pop, british soul",79,224694,0.578,0.604,0.366,0,0.133,-7.519,0.0282,141.981,0.13
-2021-10-07T17:02:54Z,Davvero,Davvero,2021-09-09,"Zeep, Kaizén",indie ,11,157341,0.067,0.706,0.444,4.5e-06,0.111,-9.641,0.0306,98.047,0.325
-2021-10-07T15:50:16Z,Solo te,Spazio,2020-05-14,ARIETE,"italian hip hop, rome indie, italian pop",40,157894,0.209,0.505,0.535,0,0.291,-6.683,0.0363,151.842,0.286
-2021-10-07T15:49:59Z,Oracolo,Oracolo,2021-09-17,Laila Al Habash,italian indie pop,16,197203,0.226,0.686,0.556,0.00185,0.187,-8.177,0.0588,76.037,0.564
-2021-10-07T15:49:57Z,Non Esiste Amore A Napoli (feat. Calcutta),Non Esiste Amore A Napoli,2021-09-23,"TROPICO, Calcutta ","italian pop, rome indie",50,220300,0.212,0.618,0.703,0,0.117,-8.756,0.134,115.034,0.754
-2021-10-07T15:49:55Z,Maledetti noi,Maledetti noi,2021-05-28,dile,"indie rock, italian pop",24,173987,0.0248,0.556,0.547,0,0.119,-6.593,0.0354,139.828,0.167
-2021-10-07T15:49:54Z,Stupida canzone,È già domani,2021-09-17,Fast Animals and Slow Kids,"italian indie pop, italian alternative",36,204600,0.000765,0.548,0.941,1.17e-06,0.268,-3.537,0.0463,100.059,0.7
-2021-10-07T15:49:52Z,Notti amarcord,Notti amarcord,2021-07-16,"Peter White, Zero Assoluto","italian pop, rome indie, italian adult pop",22,165183,0.269,0.625,0.719,0,0.321,-6.582,0.0648,100.006,0.551
-2021-10-07T15:49:49Z,Giornata di merda,Giornata di merda,2021-06-18,Ciliari,"italian hip hop, indie, italian pop",44,198864,0.103,0.722,0.764,0,0.334,-6.217,0.0705,122.097,0.671
-2021-10-07T15:43:12Z,Fiamme negli occhi,Fiamme negli occhi,2021-03-03,Coma_Cose,"italian adult pop, milan indie, italian indie pop, italian pop, italian alternative",49,206001,0.0353,0.683,0.606,1.23e-06,0.131,-6.473,0.0305,104.018,0.7
-2021-10-07T15:42:59Z,passi falsi,passi falsi,2021-09-03,SANTACHIARA,"italian hip hop, indie, italian pop",24,200861,0.282,0.713,0.495,0,0.16,-10.912,0.0606,123.939,0.891
-2021-10-07T15:42:43Z,DIECIMILAVOCI (con ARIETE),TAXI DRIVER,2021-04-29,"Rkomi, ARIETE","italian hip hop, rome indie, italian pop",0,170399,0.647,0.677,0.47,0,0.416,-8.17,0.0336,122.089,0.525
+2023-07-03T17:56:34Z,.,if i could make it go quiet,2021-04-30,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",59,166240,0.0838,0.451,0.907,0.832,0.137,-7.362,0.291,151.988,0.317
+2023-07-03T17:56:29Z,midnight love,if i could make it go quiet,2021-04-30,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",62,193928,0.717,0.284,0.538,0.105,0.111,-9.894,0.0886,179.708,0.259
+2023-07-03T17:55:43Z,Body And Mind,if i could make it go quiet,2021-04-30,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",51,186672,0.0718,0.575,0.572,0,0.0995,-5.928,0.0635,150.894,0.551
+2023-07-01T17:27:35Z,Rue,Rue,2020-08-26,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",26,216831,0.102,0.582,0.772,0.0449,0.168,-9.438,0.0559,124.975,0.273
+2023-06-29T13:06:55Z,CICATRICI (feat. Madame),SPECCHIO,2022-02-24,"ARIETE, Madame","rome indie, trap italiana, italian hip hop, italian pop",46,173075,0.582,0.542,0.508,0,0.106,-9.573,0.101,76.697,0.238
+2023-06-29T13:06:55Z,SPIFFERI,SPECCHIO,2022-02-24,ARIETE,"rome indie, italian hip hop, italian pop",48,206093,0.882,0.431,0.317,0,0.0931,-11.571,0.0572,92.878,0.391
+2023-06-28T13:33:09Z,CAMPO MINATO (feat. ARIETE),"RAVE, ECLISSI",2022-11-24,"Tananai, ARIETE","italian adult pop, rome indie, italian hip hop, italian pop",46,195344,0.467,0.536,0.438,0,0.15,-7.422,0.0449,87.115,0.267
+2023-06-06T08:52:11Z,Hearts,Glasshouse,2017-10-20,Jessie Ware,"uk pop, electropop, pop soul, british soul, neo soul",31,213946,0.628,0.508,0.363,6.42e-06,0.0844,-8.39,0.0457,104.725,0.168
+2023-04-01T11:56:57Z,betty,folklore,2020-07-24,Taylor Swift,pop,68,294521,0.6,0.593,0.377,0,0.0976,-8.761,0.0253,95.939,0.502
+2023-03-15T18:15:06Z,Sembra quasi,Tante care cose e altri successi,2022-03-11,Fulminacci,"rome indie, italian indie pop, italian pop",32,198040,0.812,0.622,0.445,0,0.121,-8.161,0.0288,141.933,0.391
+2023-03-14T17:25:13Z,Duemilaminuti,Duemilaminuti,2023-02-08,Mara Sattei,"italian hip hop, italian pop",49,224993,0.195,0.54,0.633,0,0.0376,-4.643,0.0391,132.823,0.193
+2023-03-02T17:09:57Z,Iride blu e Cuore liquido,Opera Futura,2023-02-17,Levante,"italian adult pop, turin indie, italian pop",20,186428,0.676,0.532,0.634,0,0.361,-3.763,0.033,139.579,0.308
+2023-03-02T17:09:54Z,Leggera,Opera Futura,2023-02-17,Levante,"italian adult pop, turin indie, italian pop",31,185169,0.0319,0.658,0.867,0.000751,0.375,-3.238,0.0669,126.076,0.485
+2023-03-02T17:09:52Z,Metro,Opera Futura,2023-02-17,Levante,"italian adult pop, turin indie, italian pop",24,157279,0.278,0.725,0.719,1.77e-06,0.109,-4.183,0.0288,135.943,0.582
+2023-03-02T17:09:50Z,Mi manchi,Opera Futura,2023-02-17,Levante,"italian adult pop, turin indie, italian pop",30,194117,0.716,0.411,0.641,0,0.224,-3.951,0.0379,82.323,0.511
+2023-03-02T17:09:48Z,Invincibile,Opera Futura,2023-02-17,Levante,"italian adult pop, turin indie, italian pop",19,233235,0.48,0.456,0.812,0,0.143,-3.109,0.0353,140.08,0.281
+2023-02-13T15:43:16Z,IL BENE NEL MALE,IL BENE NEL MALE,2023-02-09,Madame,"trap italiana, italian hip hop, italian pop",49,213143,0.243,0.828,0.708,0.115,0.094,-8.647,0.0521,119.015,0.62
+2023-02-09T11:24:24Z,Vivo,Vivo,2023-02-09,Levante,"italian adult pop, turin indie, italian pop",34,201425,0.494,0.561,0.867,0,0.107,-3.221,0.0664,119.948,0.481
+2023-02-08T08:13:20Z,MARE DI GUAI,MARE DI GUAI,2023-02-08,ARIETE,"rome indie, italian hip hop, italian pop",43,204486,0.17,0.587,0.549,0,0.188,-6.045,0.042,131.996,0.324
+2023-02-05T15:48:19Z,Normale,Normale,2022-11-04,Giorgia,"classic italian pop, italian adult pop",22,194330,0.482,0.477,0.697,0,0.0959,-6.09,0.0847,114.869,0.343
+2023-01-23T19:03:09Z,First Love,19,2008-11-17,Adele,"pop soul, uk pop, pop, british soul",32,190280,0.985,0.683,0.112,0.00552,0.09,-13.461,0.0338,81.355,0.337
+2023-01-23T19:03:07Z,Melt My Heart to Stone,19,2008-11-17,Adele,"pop soul, uk pop, pop, british soul",44,203906,0.346,0.353,0.388,0,0.215,-7.091,0.0366,80.67,0.19
+2023-01-23T19:03:02Z,Lovesong,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",55,316240,0.693,0.689,0.369,0.00236,0.111,-9.407,0.0278,116.885,0.361
+2023-01-23T19:03:01Z,One And Only,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",55,348226,0.295,0.528,0.468,0,0.165,-5.306,0.0287,154.974,0.185
+2023-01-23T19:02:59Z,Don't You Remember,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",58,243200,0.214,0.644,0.4,0,0.0866,-5.713,0.0304,115.025,0.227
+2023-01-23T19:02:58Z,He Won't Go,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",50,278040,0.0225,0.706,0.57,0,0.0754,-7.045,0.086,159.908,0.728
+2023-01-23T19:02:54Z,Rumour Has It,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",60,223266,0.615,0.612,0.749,0,0.167,-5.014,0.0446,120.052,0.574
+2023-01-23T19:02:49Z,Remedy,25,2015-11-20,Adele,"pop soul, uk pop, pop, british soul",56,245426,0.894,0.405,0.3,0,0.154,-6.475,0.0378,162.355,0.24
+2023-01-23T19:02:43Z,Love Is A Game,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",57,403044,0.453,0.269,0.591,0.000695,0.0702,-5.79,0.0416,183.793,0.228
+2023-01-23T19:02:39Z,My Little Love,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",58,389107,0.829,0.339,0.492,0.00377,0.147,-10.661,0.0559,151.865,0.102
+2023-01-23T19:02:37Z,I Drink Wine,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",66,376169,0.697,0.437,0.565,0,0.119,-5.596,0.0466,115.389,0.306
+2023-01-23T19:02:35Z,Can I Get It,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",62,210384,0.0171,0.703,0.68,0,0.178,-6.118,0.0431,97.985,0.536
+2023-01-23T12:53:42Z,Ciao Ciao,Ciao Ciao,2022-02-02,La rappresentante di lista,"italian indie pop, italian pop, indie siciliano, italian alternative",48,184311,0.125,0.747,0.819,2.61e-06,0.331,-4.602,0.134,117.994,0.637
+2022-11-30T16:15:00Z,Punk,Punk,2018-11-30,Gazzelle,"italian adult pop, rome indie, italian pop",0,233760,0.526,0.657,0.438,0.00287,0.138,-5.587,0.0314,133.857,0.349
+2022-11-23T21:19:42Z,To Be Loved,30,2021-11-19,Adele,"pop soul, uk pop, pop, british soul",58,403961,0.843,0.356,0.176,0,0.231,-8.291,0.0391,170.425,0.289
+2022-11-12T08:03:41Z,Love In The Dark,25,2015-11-20,Adele,"pop soul, uk pop, pop, british soul",74,285935,0.528,0.331,0.341,0,0.109,-6.057,0.0309,109.821,0.152
+2022-11-11T20:07:37Z,ilomilo,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,Billie Eilish,"art pop, pop",70,156370,0.724,0.855,0.423,0.469,0.0896,-15.044,0.0585,120.02,0.572
+2022-11-11T16:41:54Z,Fear Me,Fear Me,2022-09-29,"JLYN, Silverberg, Alaina Cross",bossbeat,21,136895,9.9e-05,0.551,0.733,0.343,0.0689,-7.093,0.138,123.955,0.398
+2022-11-11T16:34:20Z,"I am not a woman, I'm a god","If I Can’t Have Love, I Want Power",2021-08-27,Halsey,"electropop, indie poptimism, pop, etherpop",47,176413,0.00375,0.517,0.7,0.0385,0.0634,-6.568,0.0452,179.986,0.518
+2022-11-11T12:27:51Z,Darkest Hour,Shabrang,2020-08-28,Sevdaliza,"persian electronic, escape room, alternative r&b",38,268800,0.289,0.688,0.698,0.786,0.11,-9.739,0.0471,99.998,0.0769
+2022-11-11T12:27:44Z,Hymn for Her,Hymn for Her,2022-02-11,Ames,,32,142016,0.714,0.483,0.12,0.000137,0.111,-16.11,0.0448,77.899,0.221
+2022-11-10T13:20:34Z,E.T.,Teenage Dream: The Complete Confection,2012-03-12,Katy Perry,pop,63,206373,0.0213,0.603,0.871,0,0.364,-5.404,0.08,150.103,0.69
+2022-11-07T16:22:30Z,Icaro,Icaro,2022-11-04,Efrem,,16,166754,0.844,0.427,0.491,0,0.0922,-6.452,0.029,100.197,0.317
+2022-11-03T14:53:58Z,Vuoto a perdere,RossoNoemi,2011-03-22,Noemi,"italian adult pop, italian pop",43,243293,0.0474,0.503,0.803,0,0.199,-4.511,0.0278,98.016,0.225
+2022-11-03T14:48:10Z,Bella stronza,Il Cielo Della Vergine,1994-12-01,Marco Masini,"classic italian pop, italian adult pop",44,321600,0.332,0.526,0.471,0,0.0914,-6.723,0.0306,107.646,0.273
+2022-10-16T10:10:49Z,I'll Call You Mine,if i could make it go quiet,2021-04-30,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",57,201945,0.173,0.612,0.727,5.61e-05,0.273,-5.141,0.0492,119.907,0.677
+2022-10-16T10:10:42Z,October Passed Me By,October Passed Me By,2022-10-14,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",58,165746,0.747,0.513,0.372,0.0572,0.102,-13.005,0.042,78.036,0.218
+2022-10-16T10:10:19Z,i wanna be your girlfriend,i wanna be your girlfriend,2018-03-02,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",69,204990,0.0215,0.541,0.382,0.000836,0.304,-14.323,0.035,155.901,0.343
+2022-10-16T10:10:17Z,bad idea!,bad idea!,2019-09-03,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",67,219638,0.0289,0.513,0.807,0.0548,0.246,-6.095,0.0481,162.026,0.419
+2022-10-16T10:10:16Z,we fell in love in october,we fell in love in october / forget her,2018-11-21,girl in red,"indie pop, norwegian indie, pov: indie, bedroom pop",0,184153,0.113,0.566,0.366,0.181,0.155,-12.808,0.028,129.96,0.237
+2022-10-11T16:57:26Z,Chitarre blu,Tante care cose e altri successi,2022-03-11,Fulminacci,"rome indie, italian indie pop, italian pop",0,175946,0.752,0.676,0.417,4.03e-06,0.365,-8.383,0.252,79.957,0.486
+2022-10-05T17:58:22Z,Al Giusto Momento,La Vita Veramente,2019-04-10,Fulminacci,"rome indie, italian indie pop, italian pop",0,216506,0.0632,0.706,0.495,4.44e-05,0.321,-6.651,0.0373,90.01,0.53
+2022-09-26T05:24:13Z,2 Be Loved (Am I Ready),Special,2022-07-14,Lizzo,"trap queen, pop, escape room, minnesota hip hop",61,187107,0.0922,0.721,0.769,0,0.0817,-4.111,0.105,155.932,0.915
+2022-09-14T07:50:24Z,Birds,Birds,2019-03-29,Kat Cunning,,0,203962,0.432,0.545,0.411,0,0.301,-6.368,0.0415,132.213,0.25
+2022-09-14T07:49:15Z,Seventeen,Remind Me Tomorrow,2019-01-18,Sharon Van Etten,"chamber pop, art pop, new jersey indie, melancholia, singer-songwriter, indie rock",54,265920,0.0164,0.538,0.774,0.265,0.0685,-7.359,0.0484,127.107,0.249
+2022-09-13T06:53:54Z,King of Shadow,King of Shadow,2019-06-14,Kat Cunning,,37,196007,0.126,0.591,0.547,0,0.174,-8.596,0.0284,116.017,0.253
+2022-09-06T10:27:37Z,The One That Got Away,Teenage Dream: The Complete Confection,2012-03-12,Katy Perry,pop,66,227333,0.000802,0.688,0.792,0,0.2,-4.023,0.0353,133.958,0.863
+2022-08-23T08:18:00Z,Fire for You,Shadows,2019-07-12,Cannons,chillwave,65,231825,0.114,0.737,0.678,0.157,0.123,-7.011,0.0962,102.051,0.698
+2022-07-13T17:44:15Z,E yo mamma,Faccio un casino,2017-05-05,Coez,"italian adult pop, rap napoletano, rome indie, italian pop",54,201853,0.838,0.711,0.232,0,0.0844,-10.165,0.0795,139.785,0.361
+2022-06-20T08:35:31Z,Snowflakes,Dreamweaver,2015-06-09,Christoffer Franzen,,1,130204,0.975,0.223,0.158,0.951,0.0908,-17.037,0.036,133.003,0.039
+2022-06-10T12:17:18Z,Il giorno prima del giorno dell'inizio non ha mai avuto fine,Magmamemoria,2019-10-04,Levante,"italian adult pop, turin indie, italian pop",0,234066,0.511,0.307,0.416,1.34e-06,0.131,-8.361,0.0396,68.701,0.258
+2022-06-10T12:16:39Z,Ridere,Fuori dall'Hype Ringo Starr,2020-02-07,Pinguini Tattici Nucleari,"bergamo indie, italian indie pop, italian pop, milan indie",62,214733,0.0493,0.713,0.902,0,0.0781,-3.009,0.0378,116.909,0.72
+2022-06-08T07:46:29Z,I Wanna Be Yours,AM,2013-09-09,Arctic Monkeys,"permanent wave, rock, sheffield indie, modern rock, garage rock",87,183956,0.136,0.464,0.417,0.022,0.0974,-9.345,0.0256,67.528,0.479
+2022-06-04T12:32:40Z,Wildest Dreams (Taylor's Version),Wildest Dreams (Taylor's Version),2021-09-17,Taylor Swift,pop,70,220433,0.0374,0.583,0.67,0.0001,0.126,-7.289,0.0646,140.061,0.498
+2022-05-10T09:32:24Z,Luna Storta,Luna Storta,2022-05-06,Opposite,,8,207741,0.525,0.766,0.538,0,0.0777,-5.318,0.0316,92.951,0.616
+2022-05-02T08:15:03Z,watch,dont smile at me,2017-12-22,Billie Eilish,"art pop, pop",73,177523,0.333,0.441,0.599,0.00198,0.103,-8.985,0.225,165.212,0.35
+2022-05-02T08:01:02Z,Ciao per sempre,Abbi cura di te,2015-05-05,Levante,"italian adult pop, turin indie, italian pop",16,205760,0.0728,0.698,0.565,0.00212,0.106,-5.866,0.0335,102.994,0.342
+2022-05-02T08:01:00Z,idontwannabeyouanymore,dont smile at me,2017-12-22,Billie Eilish,"art pop, pop",73,203569,0.737,0.483,0.412,0,0.116,-8.461,0.0402,170.163,0.247
+2022-04-22T15:25:48Z,In Ogni Angolo Di Me,LA MIA CITTA',2022-03-08,Emma,"italian adult pop, italian pop",4,221786,0.402,0.572,0.764,0,0.0811,-4.192,0.036,97.964,0.405
+2022-04-19T17:51:15Z,Incredibile Voglia Di Niente,Essere Qui - Boom Edition,2018-11-16,Emma,"italian adult pop, italian pop",12,212777,0.0967,0.615,0.55,0,0.0873,-10.527,0.0401,102.042,0.22
+2022-03-31T17:49:46Z,Resta Ancora Un Po',E Live,2014-11-11,Emma,"italian adult pop, italian pop",26,213906,0.147,0.53,0.762,0,0.113,-2.77,0.0349,143.833,0.213
+2022-03-31T17:45:29Z,Trattengo Il Fiato,Schiena,2013-01-01,Emma,"italian adult pop, italian pop",33,238666,0.573,0.628,0.619,0,0.111,-4.772,0.0316,118.877,0.387
+2021-12-04T22:09:21Z,Hold On,Hold On,2017-02-03,Chord Overstreet,"acoustic pop, singer-songwriter pop",74,198853,0.469,0.618,0.443,0,0.0829,-9.681,0.0526,119.949,0.167
+2021-11-18T16:06:01Z,Come nelle canzoni,Come nelle canzoni,2021-11-05,Coez,"italian adult pop, rap napoletano, rome indie, italian pop",45,212897,0.252,0.537,0.814,0,0.117,-5.855,0.281,175.878,0.505
+2021-10-16T16:19:52Z,Easy On Me,Easy On Me,2021-10-14,Adele,"pop soul, uk pop, pop, british soul",74,224694,0.578,0.604,0.366,0,0.133,-7.519,0.0282,141.981,0.13
+2021-10-07T17:02:54Z,Davvero,Davvero,2021-09-09,"Zeep, Kaizén",,7,157341,0.067,0.706,0.444,4.5e-06,0.111,-9.641,0.0306,98.047,0.325
+2021-10-07T15:50:16Z,Solo te,Spazio,2020-05-14,ARIETE,"rome indie, italian hip hop, italian pop",36,157894,0.209,0.505,0.535,0,0.291,-6.683,0.0363,151.842,0.286
+2021-10-07T15:49:59Z,Oracolo,Oracolo,2021-09-17,Laila Al Habash,italian indie pop,11,197203,0.226,0.686,0.556,0.00185,0.187,-8.177,0.0588,76.037,0.564
+2021-10-07T15:49:57Z,Non Esiste Amore A Napoli (feat. Calcutta),Non Esiste Amore A Napoli,2021-09-23,"TROPICO, Calcutta ","italian adult pop, rome indie, italian pop",46,220300,0.212,0.618,0.703,0,0.117,-8.756,0.134,115.034,0.754
+2021-10-07T15:49:55Z,Maledetti noi,Maledetti noi,2021-05-28,dile,,18,173987,0.0248,0.556,0.547,0,0.119,-6.593,0.0354,139.828,0.167
+2021-10-07T15:49:54Z,Stupida canzone,È già domani,2021-09-17,Fast Animals and Slow Kids,"italian indie pop, italian alternative",33,204600,0.000765,0.548,0.941,1.17e-06,0.268,-3.537,0.0463,100.059,0.7
+2021-10-07T15:49:52Z,Notti amarcord,Notti amarcord,2021-07-16,"Peter White, Zero Assoluto","rome indie, italian adult pop, italian pop",17,165183,0.269,0.625,0.719,0,0.321,-6.582,0.0648,100.006,0.551
+2021-10-07T15:49:49Z,Giornata di merda,Giornata di merda,2021-06-18,Ciliari,,39,198864,0.103,0.722,0.764,0,0.334,-6.217,0.0705,122.097,0.671
+2021-10-07T15:43:12Z,Fiamme negli occhi,Fiamme negli occhi,2021-03-03,Coma_Cose,"italian pop, italian adult pop, italian alternative, milan indie, italian indie pop",44,206001,0.0353,0.683,0.606,1.23e-06,0.131,-6.473,0.0305,104.018,0.7
+2021-10-07T15:42:59Z,passi falsi,passi falsi,2021-09-03,SANTACHIARA,,19,200861,0.282,0.713,0.495,0,0.16,-10.912,0.0606,123.939,0.891
+2021-10-07T15:42:43Z,DIECIMILAVOCI (con ARIETE),TAXI DRIVER,2021-04-29,"Rkomi, ARIETE","rome indie, italian hip hop, italian pop",0,170399,0.647,0.677,0.47,0,0.416,-8.17,0.0336,122.089,0.525
 2021-10-07T15:42:29Z,DUE,DUE,2021-04-16,svegliaginevra,italian indie pop,0,151997,0.387,0.536,0.834,0,0.702,-6.582,0.102,159.719,0.635
-2021-10-05T16:56:13Z,Alieni,Alieni,2021-10-01,M.E.R.L.O.T,"italian hip hop, indie, italian pop",23,167965,0.0736,0.536,0.662,0,0.235,-6.669,0.133,171.746,0.573
-2021-10-05T16:50:12Z,Arianna,Arianna,2021-07-13,Pablo America,"italian hip hop, indie, italian pop",11,252569,0.0399,0.538,0.758,2.15e-06,0.357,-5.045,0.0357,130.052,0.391
-2021-10-05T16:29:14Z,Roma Centro,Roma Centro,2021-05-21,Evandro,"italian hip hop, indie, italian pop",0,173948,0.438,0.492,0.506,0,0.371,-6.2,0.0572,151.811,0.173
-2021-10-03T20:46:47Z,Mandorle,Mandorle,2021-09-23,Te quiero Euridice,indie folk italiano,5,154888,0.846,0.517,0.483,0.00474,0.269,-6.864,0.0444,173.54,0.0902
-2021-10-03T12:17:59Z,Quel Bar,Quel Bar,2019-11-15,ARIETE,"italian hip hop, rome indie, italian pop",39,218333,0.909,0.426,0.172,0.0233,0.124,-22.029,0.0425,99.893,0.111
-2021-10-01T19:37:15Z,Blank Space,1989 (Deluxe),2014-01-01,Taylor Swift,pop,82,231826,0.103,0.76,0.703,0,0.0913,-5.412,0.054,95.997,0.57
-2021-09-29T14:00:23Z,L,L,2021-09-29,ARIETE,"italian hip hop, rome indie, italian pop",37,159449,0.169,0.556,0.515,0,0.162,-9.024,0.0289,79.952,0.384
-2021-09-25T13:33:56Z,Your Power,Happier Than Ever,2021-07-30,Billie Eilish,"pop, art pop",73,245896,0.932,0.632,0.284,0.000476,0.233,-14.025,0.0801,129.642,0.208
-2021-09-25T13:33:54Z,Happier Than Ever,Happier Than Ever,2021-07-30,Billie Eilish,"pop, art pop",83,298899,0.767,0.332,0.225,0.00349,0.128,-8.697,0.0348,81.055,0.297
-2021-09-25T13:33:41Z,We Are Never Ever Getting Back Together,Red (Deluxe Edition),2012-10-22,Taylor Swift,pop,59,193146,0.00957,0.628,0.676,2.65e-05,0.121,-5.911,0.0916,85.984,0.75
-2021-09-21T10:46:08Z,Belva,OK,2021-02-12,Gazzelle,"italian pop, rome indie, italian adult pop",0,175913,0.116,0.664,0.7,2.15e-05,0.123,-6.822,0.0996,160.039,0.475
-2021-09-17T06:56:30Z,Tornado,2004,2016-10-21,Frah Quintale,"milan indie, italian hip hop, italian indie pop, italian pop",45,180087,0.106,0.564,0.863,0,0.29,-4.564,0.106,82.865,0.823
-2021-09-16T10:19:17Z,Tout l'univers,Tout l'univers,2021-03-10,Gjon's Tears,pop,0,183706,0.81,0.534,0.365,2.52e-06,0.158,-9.187,0.033,123.466,0.237
-2021-09-12T21:26:43Z,D'improvviso,Zero Gravity,2016-03-11,Lorenzo Fragola,"italian pop, italian adult pop",54,209400,0.653,0.587,0.616,0,0.0976,-6.578,0.0388,129.769,0.326
-2021-09-11T11:41:01Z,august,folklore,2020-07-24,Taylor Swift,pop,85,261922,0.538,0.532,0.623,7.28e-05,0.0925,-9.208,0.0331,89.937,0.403
-2021-09-11T11:34:12Z,Space,A Celebration Of Endings,2020-08-14,Biffy Clyro,"modern rock, scottish rock",50,235946,0.206,0.457,0.559,0,0.193,-5.17,0.027,156.907,0.41
-2021-09-09T18:38:31Z,Mille guerre,18 anni,2020-12-03,ARIETE,"italian hip hop, rome indie, italian pop",51,137562,0.537,0.538,0.579,0,0.165,-6.986,0.114,166.053,0.616
-2021-09-09T18:38:29Z,Amianto,Spazio,2020-05-14,ARIETE,"italian hip hop, rome indie, italian pop",43,179541,0.892,0.452,0.297,0,0.194,-14.231,0.0429,131.24,0.0929
-2021-09-09T18:38:14Z,Look After You,How To Save A Life,2005-09-13,The Fray,"piano rock, pop, pop rock, neo mellow",75,266773,0.0575,0.447,0.592,4.47e-06,0.13,-3.015,0.0319,78.039,0.283
-2021-09-09T08:47:02Z,Insicuri,Spazio,2020-05-14,ARIETE,"italian hip hop, rome indie, italian pop",33,207567,0.636,0.513,0.206,0,0.0989,-15.234,0.0509,74.07,0.211
-2021-08-23T20:10:06Z,Dedicato a te,Crepe,2020-08-28,Irama,"italian pop, italian adult pop",41,208000,0.852,0.655,0.472,0,0.0881,-6.149,0.0319,87.547,0.362
-2021-08-23T20:09:46Z,Ieri L'Altro,Stanza Singola,2019-01-25,Franco126,"italian hip hop, rome indie, italian pop",51,230896,0.648,0.581,0.38,0,0.0908,-11.004,0.0368,144.917,0.332
-2021-08-20T11:01:21Z,Promettimi,Diari Aperti,2019-05-03,Elisa,"italian pop, italian adult pop",51,235226,0.744,0.599,0.394,0,0.118,-6.128,0.0297,129.955,0.237
-2021-08-15T10:19:59Z,Lacrime da bere,Lacrime da bere,2020-10-22,M.E.R.L.O.T,"italian hip hop, indie, italian pop",32,162967,0.577,0.455,0.676,0,0.704,-7.28,0.0596,154.611,0.607
+2021-10-05T16:56:13Z,Alieni,Alieni,2021-10-01,M.E.R.L.O.T,,18,167965,0.0736,0.536,0.662,0,0.235,-6.669,0.133,171.746,0.573
+2021-10-05T16:50:12Z,Arianna,Arianna,2021-07-13,Pablo America,,7,252569,0.0399,0.538,0.758,2.15e-06,0.357,-5.045,0.0357,130.052,0.391
+2021-10-05T16:29:14Z,Roma Centro,Roma Centro,2021-05-21,Evandro,,0,173948,0.438,0.492,0.506,0,0.371,-6.2,0.0572,151.811,0.173
+2021-10-03T20:46:47Z,Mandorle,Mandorle,2021-09-23,Te quiero Euridice,indie folk italiano,3,154888,0.846,0.517,0.483,0.00474,0.269,-6.864,0.0444,173.54,0.0902
+2021-10-03T12:17:59Z,Quel Bar,Quel Bar,2019-11-15,ARIETE,"rome indie, italian hip hop, italian pop",34,218333,0.909,0.426,0.172,0.0233,0.124,-22.029,0.0425,99.893,0.111
+2021-10-01T19:37:15Z,Blank Space,1989 (Deluxe),2014-01-01,Taylor Swift,pop,77,231826,0.103,0.76,0.703,0,0.0913,-5.412,0.054,95.997,0.57
+2021-09-29T14:00:23Z,L,L,2021-09-29,ARIETE,"rome indie, italian hip hop, italian pop",32,159449,0.169,0.556,0.515,0,0.162,-9.024,0.0289,79.952,0.384
+2021-09-25T13:33:56Z,Your Power,Happier Than Ever,2021-07-30,Billie Eilish,"art pop, pop",68,245896,0.932,0.632,0.284,0.000476,0.233,-14.025,0.0801,129.642,0.208
+2021-09-25T13:33:54Z,Happier Than Ever,Happier Than Ever,2021-07-30,Billie Eilish,"art pop, pop",78,298899,0.767,0.332,0.225,0.00349,0.128,-8.697,0.0348,81.055,0.297
+2021-09-25T13:33:41Z,We Are Never Ever Getting Back Together,Red (Deluxe Edition),2012-10-22,Taylor Swift,pop,54,193146,0.00957,0.628,0.676,2.65e-05,0.121,-5.911,0.0916,85.984,0.75
+2021-09-21T10:46:08Z,Belva,OK,2021-02-12,Gazzelle,"italian adult pop, rome indie, italian pop",0,175913,0.116,0.664,0.7,2.15e-05,0.123,-6.822,0.0996,160.039,0.475
+2021-09-17T06:56:30Z,Tornado,2004,2016-10-21,Frah Quintale,"milan indie, italian indie pop, italian hip hop, italian pop",40,180087,0.106,0.564,0.863,0,0.29,-4.564,0.106,82.865,0.823
+2021-09-16T10:19:17Z,Tout l'univers,Tout l'univers,2021-03-10,Gjon's Tears,,0,183706,0.81,0.534,0.365,2.52e-06,0.158,-9.187,0.033,123.466,0.237
+2021-09-12T21:26:43Z,D'improvviso,Zero Gravity,2016-03-11,Lorenzo Fragola,"italian adult pop, italian pop",49,209400,0.653,0.587,0.616,0,0.0976,-6.578,0.0388,129.769,0.326
+2021-09-11T11:41:01Z,august,folklore,2020-07-24,Taylor Swift,pop,80,261922,0.538,0.532,0.623,7.28e-05,0.0925,-9.208,0.0331,89.937,0.403
+2021-09-11T11:34:12Z,Space,A Celebration Of Endings,2020-08-14,Biffy Clyro,"modern rock, scottish rock",45,235946,0.206,0.457,0.559,0,0.193,-5.17,0.027,156.907,0.41
+2021-09-09T18:38:31Z,Mille guerre,18 anni,2020-12-03,ARIETE,"rome indie, italian hip hop, italian pop",45,137562,0.537,0.538,0.579,0,0.165,-6.986,0.114,166.053,0.616
+2021-09-09T18:38:29Z,Amianto,Spazio,2020-05-14,ARIETE,"rome indie, italian hip hop, italian pop",38,179541,0.892,0.452,0.297,0,0.194,-14.231,0.0429,131.24,0.0929
+2021-09-09T18:38:14Z,Look After You,How To Save A Life,2005-09-13,The Fray,"pop rock, neo mellow, piano rock, pop",70,266773,0.0575,0.447,0.592,4.47e-06,0.13,-3.015,0.0319,78.039,0.283
+2021-09-09T08:47:02Z,Insicuri,Spazio,2020-05-14,ARIETE,"rome indie, italian hip hop, italian pop",28,207567,0.636,0.513,0.206,0,0.0989,-15.234,0.0509,74.07,0.211
+2021-08-23T20:10:06Z,Dedicato a te,Crepe,2020-08-28,Irama,"italian adult pop, italian pop",36,208000,0.852,0.655,0.472,0,0.0881,-6.149,0.0319,87.547,0.362
+2021-08-23T20:09:46Z,Ieri L'Altro,Stanza Singola,2019-01-25,Franco126,"rome indie, italian hip hop, italian pop",46,230896,0.648,0.581,0.38,0,0.0908,-11.004,0.0368,144.917,0.332
+2021-08-20T11:01:21Z,Promettimi,Diari Aperti,2019-05-03,Elisa,"italian adult pop, italian pop",45,235226,0.744,0.599,0.394,0,0.118,-6.128,0.0297,129.955,0.237
+2021-08-15T10:19:59Z,Lacrime da bere,Lacrime da bere,2020-10-22,M.E.R.L.O.T,,27,162967,0.577,0.455,0.676,0,0.704,-7.28,0.0596,154.611,0.607
 2021-08-13T09:44:05Z,Ti amo ma,Ti amo ma,2021-07-22,"Tecla, Alfa",pop virale italiano,0,167520,0.0204,0.776,0.416,2.83e-06,0.157,-8.819,0.0645,124.989,0.581
-2021-08-13T09:21:52Z,Super Martina (feat. Gazzelle),Bengala,2018-04-27,"Lorenzo Fragola, Gazzelle","italian pop, rome indie, italian adult pop",43,178687,0.128,0.759,0.709,0,0.178,-3.898,0.0512,110.015,0.564
-2021-08-03T09:48:28Z,Supernova (tigers blud),Supernova (tigers blud),2020-08-21,Kat Cunning,pop,37,196392,0.0605,0.571,0.71,0,0.111,-6.849,0.0711,137.829,0.294
-2021-07-27T13:16:02Z,Bergamo,Fuori dall'Hype Ringo Starr,2020-02-07,Pinguini Tattici Nucleari,"bergamo indie, italian pop, italian indie pop, milan indie",55,288266,0.187,0.615,0.603,9e-06,0.0958,-4.405,0.0332,140.051,0.349
-2021-07-25T13:12:16Z,Up at Night,Up at Night,2016-05-18,Cimorelli,viral pop,25,244327,0.114,0.52,0.607,0,0.302,-6.351,0.0381,78.244,0.425
-2021-07-25T13:12:12Z,Back to Me,Back to Me,2019-11-08,Lisa Cimorelli,pop,10,231272,0.0565,0.55,0.749,0,0.11,-3.911,0.0421,109.943,0.218
-2021-07-25T13:12:09Z,Stay,Stay,2018-06-16,Cimorelli,viral pop,7,205116,0.629,0.316,0.372,0,0.0821,-7.568,0.029,88.653,0.0472
-2021-07-25T13:12:03Z,hope ur ok,SOUR,2021-05-21,Olivia Rodrigo,pop,73,209560,0.388,0.443,0.298,1e-05,0.103,-12.181,0.0644,77.253,0.172
-2021-07-10T20:49:35Z,When We Were Young,25,2015-11-20,Adele,"pop soul, uk pop, pop, british soul",76,290900,0.303,0.376,0.595,0,0.095,-5.936,0.0496,144.361,0.265
-2021-07-10T20:49:34Z,Someone Like You,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",81,285240,0.893,0.556,0.319,0,0.0996,-8.251,0.0281,135.187,0.294
-2021-05-24T17:18:04Z,When I Was Your Man,Unorthodox Jukebox,2012-12-07,Bruno Mars,"dance pop, pop",87,213826,0.932,0.612,0.28,0,0.088,-8.648,0.0434,72.795,0.387
-2021-05-05T10:50:37Z,L'ultima notte,L'ultima notte,2021-05-03,ARIETE,"italian hip hop, rome indie, italian pop",58,157566,0.268,0.618,0.687,0,0.126,-5.603,0.0446,94.037,0.398
-2021-05-02T11:24:23Z,Avrei voluto dirti,Spazio,2020-05-14,ARIETE,"italian hip hop, rome indie, italian pop",38,184615,0.41,0.724,0.368,0.000227,0.0777,-12.383,0.0586,103.938,0.233
-2021-03-06T15:07:25Z,VOCE,VOCE,2021-03-03,Madame,"italian hip hop, trap italiana, italian pop",46,211410,0.105,0.615,0.834,0,0.157,-5.471,0.0667,112.602,0.341
-2021-01-13T22:15:22Z,Le parole più grandi,Niente che non va,2015-09-04,Coez,"rap napoletano, italian pop, rome indie, italian adult pop",56,224931,0.788,0.411,0.411,4.22e-06,0.0968,-9.025,0.0338,118.327,0.256
-2020-12-16T21:30:00Z,Echo,Midnight Starlight,2011-02-21,Jason Walker,viral pop,50,212640,0.664,0.403,0.45,7.57e-06,0.0946,-6.314,0.0297,147.694,0.116
+2021-08-13T09:21:52Z,Super Martina (feat. Gazzelle),Bengala,2018-04-27,"Lorenzo Fragola, Gazzelle","italian adult pop, rome indie, italian pop",38,178687,0.128,0.759,0.709,0,0.178,-3.898,0.0512,110.015,0.564
+2021-08-03T09:48:28Z,Supernova (tigers blud),Supernova (tigers blud),2020-08-21,Kat Cunning,,32,196392,0.0605,0.571,0.71,0,0.111,-6.849,0.0711,137.829,0.294
+2021-07-27T13:16:02Z,Bergamo,Fuori dall'Hype Ringo Starr,2020-02-07,Pinguini Tattici Nucleari,"bergamo indie, italian indie pop, italian pop, milan indie",49,288266,0.187,0.615,0.603,9e-06,0.0958,-4.405,0.0332,140.051,0.349
+2021-07-25T13:12:16Z,Up at Night,Up at Night,2016-05-18,Cimorelli,viral pop,20,244327,0.114,0.52,0.607,0,0.302,-6.351,0.0381,78.244,0.425
+2021-07-25T13:12:12Z,Back to Me,Back to Me,2019-11-08,Lisa Cimorelli,,7,231272,0.0565,0.55,0.749,0,0.11,-3.911,0.0421,109.943,0.218
+2021-07-25T13:12:09Z,Stay,Stay,2018-06-16,Cimorelli,viral pop,4,205116,0.629,0.316,0.372,0,0.0821,-7.568,0.029,88.653,0.0472
+2021-07-25T13:12:03Z,hope ur ok,SOUR,2021-05-21,Olivia Rodrigo,pop,67,209560,0.388,0.443,0.298,1e-05,0.103,-12.181,0.0644,77.253,0.172
+2021-07-10T20:49:35Z,When We Were Young,25,2015-11-20,Adele,"pop soul, uk pop, pop, british soul",71,290900,0.303,0.376,0.595,0,0.095,-5.936,0.0496,144.361,0.265
+2021-07-10T20:49:34Z,Someone Like You,21,2011-01-24,Adele,"pop soul, uk pop, pop, british soul",76,285240,0.893,0.556,0.319,0,0.0996,-8.251,0.0281,135.187,0.294
+2021-05-24T17:18:04Z,When I Was Your Man,Unorthodox Jukebox,2012-12-07,Bruno Mars,"dance pop, pop",82,213826,0.932,0.612,0.28,0,0.088,-8.648,0.0434,72.795,0.387
+2021-05-05T10:50:37Z,L'ultima notte,L'ultima notte,2021-05-03,ARIETE,"rome indie, italian hip hop, italian pop",53,157566,0.268,0.618,0.687,0,0.126,-5.603,0.0446,94.037,0.398
+2021-05-02T11:24:23Z,Avrei voluto dirti,Spazio,2020-05-14,ARIETE,"rome indie, italian hip hop, italian pop",33,184615,0.41,0.724,0.368,0.000227,0.0777,-12.383,0.0586,103.938,0.233
+2021-03-06T15:07:25Z,VOCE,VOCE,2021-03-03,Madame,"trap italiana, italian hip hop, italian pop",41,211410,0.105,0.615,0.834,0,0.157,-5.471,0.0667,112.602,0.341
+2021-01-13T22:15:22Z,Le parole più grandi,Niente che non va,2015-09-04,Coez,"italian adult pop, rap napoletano, rome indie, italian pop",55,224931,0.788,0.411,0.411,4.22e-06,0.0968,-9.025,0.0338,118.327,0.256
+2020-12-16T21:30:00Z,Echo,Midnight Starlight,2011-02-21,Jason Walker,viral pop,45,212640,0.664,0.403,0.45,7.57e-06,0.0946,-6.314,0.0297,147.694,0.116
 2020-12-16T21:27:02Z,War of Hearts (Acoustic Version),War of Hearts (Acoustic Version),2017-06-23,Ruelle,metropopolis,0,232327,0.959,0.444,0.126,0,0.0751,-11.77,0.0344,138.069,0.407
-2020-11-15T18:07:04Z,Scusa,Scusa,2020-11-13,Gazzelle,"italian pop, rome indie, italian adult pop",0,210361,0.546,0.673,0.469,0,0.142,-5.725,0.0326,129.934,0.374
-2020-11-15T11:06:49Z,Kiwi,Evergreen,2018-05-25,Calcutta ,"italian pop, rome indie",49,222826,0.0611,0.615,0.416,1.55e-06,0.453,-7.09,0.026,89.952,0.271
-2020-11-07T22:10:45Z,Alfonso,Manuale Distruzione,2014-03-11,Levante,"italian pop, turin indie, italian adult pop",0,212000,0.683,0.616,0.67,0,0.287,-6.223,0.059,79.448,0.812
-2020-11-07T12:35:45Z,No One,As I Am,2007-11-09,Alicia Keys,"r&b, pop, neo soul",0,253813,0.03,0.649,0.552,6.47e-06,0.111,-5.419,0.0292,89.969,0.158
-2020-10-31T11:42:22Z,Glovo,Glovo,2020-10-23,COMETE,italian indie pop,26,183603,0.0803,0.79,0.919,0,0.122,-3.742,0.16,102.958,0.787
-2020-10-26T22:25:24Z,Latina,Fortuna,2020-08-27,Emma,"italian pop, italian adult pop",39,203685,0.0621,0.682,0.852,0,0.251,-4.802,0.0762,105.021,0.39
-2020-10-25T19:06:37Z,ALTALENE (feat. Mara Sattei & Coez),BV3,2020-10-02,"BLOODY VINYL, Slait, thasup, Mara Sattei, Coez","italian hip hop, trap italiana, rome indie, rap napoletano, italian pop, italian adult pop",0,186853,0.108,0.647,0.692,0,0.126,-4.6,0.098,139.693,0.342
-2020-10-23T15:23:30Z,E invece niente,Deluderti,2018-03-30,Maria Antonietta,"italian indie pop, italian alternative",20,188360,0.0848,0.877,0.548,0,0.113,-7.549,0.101,99.009,0.79
-2020-10-16T22:01:08Z,Make You Feel My Love,19,2008-01-28,Adele,"pop soul, uk pop, pop, british soul",1,212040,0.907,0.559,0.172,0.000383,0.105,-10.636,0.0291,77.025,0.0955
-2020-10-16T10:44:03Z,Venerdì,Venerdì,2020-10-15,ARIETE,"italian hip hop, rome indie, italian pop",39,190947,0.503,0.491,0.479,0,0.0402,-8.939,0.0522,79.103,0.155
-2020-10-12T13:38:11Z,16 Marzo (feat. Gow Tribe),16 Marzo (feat. Gow Tribe),2020-04-03,"Achille Lauro, Gow Tribe","italian pop, italian hip hop, italian adult pop",0,233492,0.214,0.49,0.61,0,0.127,-4.981,0.0297,129.91,0.226
-2020-10-04T10:30:18Z,Monolocale,Settebello,2020-03-20,Galeffi,"italian indie pop, rome indie",43,184000,0.186,0.659,0.499,0,0.173,-5.75,0.0262,75.052,0.465
-2020-10-01T14:18:23Z,colpa mia,colpa mia,2020-06-11,MIVÀ,"italian hip hop, indie, italian pop",0,187682,0.461,0.567,0.592,0,0.117,-5.749,0.2,81.852,0.457
-2020-10-01T14:18:17Z,Duemilacredici,Duemilacredici,2020-03-13,Caterina Cropelli,italian indie pop,0,205440,0.213,0.557,0.639,0,0.14,-7.648,0.099,176.013,0.583
-2020-10-01T14:18:00Z,Amarena,Banzai (Lato blu),2020-06-26,Frah Quintale,"milan indie, italian hip hop, italian indie pop, italian pop",56,214000,0.153,0.758,0.798,0,0.0413,-4.071,0.0905,106.99,0.934
-2020-10-01T14:17:51Z,MINE,MINE,2020-09-11,Scirocco,italian indie pop,0,183375,0.176,0.795,0.588,0,0.116,-10.323,0.0422,119.995,0.761
-2020-09-27T16:32:06Z,Regali fatti a mano,Regali fatti a mano,2020-05-14,Gio Evan,"italian pop, italian indie pop",29,165690,0.236,0.631,0.611,0,0.33,-6.791,0.0499,91.07,0.514
+2020-11-15T18:07:04Z,Scusa,Scusa,2020-11-13,Gazzelle,"italian adult pop, rome indie, italian pop",0,210361,0.546,0.673,0.469,0,0.142,-5.725,0.0326,129.934,0.374
+2020-11-15T11:06:49Z,Kiwi,Evergreen,2018-05-25,Calcutta ,"italian adult pop, rome indie, italian pop",44,222826,0.0611,0.615,0.416,1.55e-06,0.453,-7.09,0.026,89.952,0.271
+2020-11-07T22:10:45Z,Alfonso,Manuale Distruzione,2014-03-11,Levante,"italian adult pop, turin indie, italian pop",0,212000,0.683,0.616,0.67,0,0.287,-6.223,0.059,79.448,0.812
+2020-11-07T12:35:45Z,No One,As I Am,2007-11-09,Alicia Keys,"r&b, neo soul, pop",0,253813,0.03,0.649,0.552,6.47e-06,0.111,-5.419,0.0292,89.969,0.158
+2020-10-31T11:42:22Z,Glovo,Glovo,2020-10-23,COMETE,italian indie pop,20,183603,0.0803,0.79,0.919,0,0.122,-3.742,0.16,102.958,0.787
+2020-10-26T22:25:24Z,Latina,Fortuna,2020-08-27,Emma,"italian adult pop, italian pop",34,203685,0.0621,0.682,0.852,0,0.251,-4.802,0.0762,105.021,0.39
+2020-10-25T19:06:37Z,ALTALENE (feat. Mara Sattei & Coez),BV3,2020-10-02,"BLOODY VINYL, Slait, thasup, Mara Sattei, Coez","trap italiana, italian pop, italian adult pop, rome indie, italian hip hop, rap napoletano",0,186853,0.108,0.647,0.692,0,0.126,-4.6,0.098,139.693,0.342
+2020-10-23T15:23:30Z,E invece niente,Deluderti,2018-03-30,Maria Antonietta,"italian indie pop, italian alternative",16,188360,0.0848,0.877,0.548,0,0.113,-7.549,0.101,99.009,0.79
+2020-10-16T22:01:08Z,Make You Feel My Love,19,2008-01-28,Adele,"pop soul, uk pop, pop, british soul",0,212040,0.907,0.559,0.172,0.000383,0.105,-10.636,0.0291,77.025,0.0955
+2020-10-16T10:44:03Z,Venerdì,Venerdì,2020-10-15,ARIETE,"rome indie, italian hip hop, italian pop",33,190947,0.503,0.491,0.479,0,0.0402,-8.939,0.0522,79.103,0.155
+2020-10-12T13:38:11Z,16 Marzo (feat. Gow Tribe),16 Marzo (feat. Gow Tribe),2020-04-03,"Achille Lauro, Gow Tribe","italian adult pop, italian hip hop, italian pop",0,233492,0.214,0.49,0.61,0,0.127,-4.981,0.0297,129.91,0.226
+2020-10-04T10:30:18Z,Monolocale,Settebello,2020-03-20,Galeffi,"rome indie, italian indie pop",37,184000,0.186,0.659,0.499,0,0.173,-5.75,0.0262,75.052,0.465
+2020-10-01T14:18:23Z,colpa mia,colpa mia,2020-06-11,MIVÀ,,0,187682,0.461,0.567,0.592,0,0.117,-5.749,0.2,81.852,0.457
+2020-10-01T14:18:17Z,Duemilacredici,Duemilacredici,2020-03-13,Caterina Cropelli,,0,205440,0.213,0.557,0.639,0,0.14,-7.648,0.099,176.013,0.583
+2020-10-01T14:18:00Z,Amarena,Banzai (Lato blu),2020-06-26,Frah Quintale,"milan indie, italian indie pop, italian hip hop, italian pop",51,214000,0.153,0.758,0.798,0,0.0413,-4.071,0.0905,106.99,0.934
+2020-10-01T14:17:51Z,MINE,MINE,2020-09-11,Scirocco,,0,183375,0.176,0.795,0.588,0,0.116,-10.323,0.0422,119.995,0.761
+2020-09-27T16:32:06Z,Regali fatti a mano,Regali fatti a mano,2020-05-14,Gio Evan,"italian indie pop, italian pop",24,165690,0.236,0.631,0.611,0,0.33,-6.791,0.0499,91.07,0.514
 2020-09-27T15:05:17Z,Come fanno le onde,Come fanno le onde,2020-07-03,svegliaginevra,italian indie pop,0,141331,0.292,0.688,0.693,2.53e-05,0.393,-6.866,0.0646,159.895,0.864
-2020-09-27T14:24:16Z,Dall'altra parte del mondo,Dall'altra parte del mondo,2020-06-26,Gregorio Sanchez,"italian hip hop, indie, italian pop",9,219520,0.735,0.488,0.356,0.00756,0.187,-10.613,0.0512,111.078,0.36
-2020-09-27T09:03:30Z,LEONI - feat. Giorgio Poi,FEAT (Stato di Natura),2020-03-13,"Francesca Michielin, Giorgio Poi","italian adult pop, italian indie pop, rome indie, italian pop, italian alternative",37,229533,0.131,0.817,0.825,7.78e-05,0.101,-5.629,0.0268,115.974,0.625
-2020-09-25T14:03:11Z,Le Donne Sono Come Le Stelle,Le Donne Sono Come Le Stelle,2020-06-19,Leo Pari,"italian indie pop, rome indie",0,212741,0.197,0.709,0.818,0,0.314,-4.637,0.0769,102.037,0.568
-2020-09-25T14:02:32Z,La storia infinita,La storia infinita,2020-08-28,Pinguini Tattici Nucleari,"bergamo indie, italian pop, italian indie pop, milan indie",41,207802,0.169,0.701,0.744,0,0.115,-3.421,0.0411,89.986,0.651
-2020-09-24T11:39:49Z,Un cuore in due,di20are,2016-02-19,Francesca Michielin,"italian pop, italian adult pop",37,212320,0.112,0.649,0.725,7.98e-05,0.108,-3.164,0.0329,136.005,0.363
-2020-09-09T14:12:20Z,Valore Assoluto,Il Mestiere Della Vita Urban Vs Acoustic,2017-11-10,"Tiziano Ferro, Levante","italian pop, turin indie, italian adult pop",19,231440,0.503,0.58,0.708,0,0.287,-3.995,0.0499,83.73,0.345
-2020-09-06T11:00:19Z,La musica non c'è,Faccio un casino,2017-05-05,Coez,"rap napoletano, italian pop, rome indie, italian adult pop",69,222786,0.381,0.747,0.498,0,0.712,-6.674,0.0353,135.919,0.53
-2020-09-06T10:55:17Z,Talking to the Moon,Doo-Wops & Hooligans,2010-10-05,Bruno Mars,"dance pop, pop",76,217866,0.511,0.498,0.59,0,0.107,-4.721,0.032,145.867,0.0784
+2020-09-27T14:24:16Z,Dall'altra parte del mondo,Dall'altra parte del mondo,2020-06-26,Gregorio Sanchez,,6,219520,0.735,0.488,0.356,0.00756,0.187,-10.613,0.0512,111.078,0.36
+2020-09-27T09:03:30Z,LEONI - feat. Giorgio Poi,FEAT (Stato di Natura),2020-03-13,"Francesca Michielin, Giorgio Poi","italian pop, italian adult pop, rome indie, italian alternative, italian indie pop",32,229533,0.131,0.817,0.825,7.78e-05,0.101,-5.629,0.0268,115.974,0.625
+2020-09-25T14:03:11Z,Le Donne Sono Come Le Stelle,Le Donne Sono Come Le Stelle,2020-06-19,Leo Pari,"rome indie, italian indie pop",0,212741,0.197,0.709,0.818,0,0.314,-4.637,0.0769,102.037,0.568
+2020-09-25T14:02:32Z,La storia infinita,La storia infinita,2020-08-28,Pinguini Tattici Nucleari,"bergamo indie, italian indie pop, italian pop, milan indie",35,207802,0.169,0.701,0.744,0,0.115,-3.421,0.0411,89.986,0.651
+2020-09-24T11:39:49Z,Un cuore in due,di20are,2016-02-19,Francesca Michielin,"italian adult pop, italian pop",32,212320,0.112,0.649,0.725,7.98e-05,0.108,-3.164,0.0329,136.005,0.363
+2020-09-09T14:12:20Z,Valore Assoluto,Il Mestiere Della Vita Urban Vs Acoustic,2017-11-10,"Tiziano Ferro, Levante","italian adult pop, turin indie, italian pop",14,231440,0.503,0.58,0.708,0,0.287,-3.995,0.0499,83.73,0.345
+2020-09-06T11:00:19Z,La musica non c'è,Faccio un casino,2017-05-05,Coez,"italian adult pop, rap napoletano, rome indie, italian pop",64,222786,0.381,0.747,0.498,0,0.712,-6.674,0.0353,135.919,0.53
+2020-09-06T10:55:17Z,Talking to the Moon,Doo-Wops & Hooligans,2010-05-11,Bruno Mars,"dance pop, pop",71,217866,0.511,0.498,0.59,0,0.107,-4.721,0.032,145.867,0.0784
 2020-09-03T07:53:13Z,Il bacio di Klimt,Il bacio di Klimt,2020-04-21,Emanuele Aloia,italian pop,0,177000,0.45,0.685,0.764,0,0.227,-4.503,0.0664,80.037,0.315
-2020-09-03T07:53:10Z,VIENIMI (a ballare),VIENIMI (a ballare),2020-07-03,AIELLO,italian pop,43,172568,0.256,0.701,0.885,0,0.294,-5.019,0.388,103.955,0.586
-2020-09-03T07:53:07Z,Superclassico,Gemelli,2020-06-18,Ernia,"italian hip hop, milan indie, italian pop",62,172200,0.0624,0.623,0.663,4.49e-06,0.0922,-6.458,0.142,149.91,0.346
-2020-09-03T07:53:05Z,Break My Heart,Break My Heart,2020-03-25,Dua Lipa,"dance pop, uk pop, pop",62,221820,0.167,0.73,0.729,1.39e-06,0.349,-3.434,0.0886,113.012,0.467
-2020-09-03T07:52:58Z,Hypnotized,Hypnotized,2020-04-08,"Purple Disco Machine, Sophie and the Giants","sheffield indie, deep house, house",64,195657,0.0968,0.69,0.813,0.000324,0.109,-5.084,0.0997,108.078,0.704
-2020-07-22T17:49:50Z,Thinking out Loud,x (Deluxe Edition),2014-06-21,Ed Sheeran,"singer-songwriter pop, uk pop, pop",81,281560,0.474,0.781,0.445,0,0.184,-6.061,0.0295,78.998,0.591
-2020-07-16T17:41:32Z,Giugno,Giugno,2020-01-17,Tananai,"italian pop, italian adult pop",0,177750,0.602,0.597,0.436,0,0.304,-10.544,0.0465,124.871,0.486
-2020-07-07T07:01:57Z,Sirene,Sirene,2020-07-07,Levante,"italian pop, turin indie, italian adult pop",34,205652,0.406,0.53,0.733,4.66e-06,0.0879,-5.074,0.039,88.955,0.3
+2020-09-03T07:53:10Z,VIENIMI (a ballare),VIENIMI (a ballare),2020-07-03,AIELLO,italian pop,38,172568,0.256,0.701,0.885,0,0.294,-5.019,0.388,103.955,0.586
+2020-09-03T07:53:07Z,Superclassico,Gemelli,2020-06-18,Ernia,"milan indie, italian hip hop, italian pop",57,172200,0.0624,0.623,0.663,4.49e-06,0.0922,-6.458,0.142,149.91,0.346
+2020-09-03T07:53:05Z,Break My Heart,Break My Heart,2020-03-25,Dua Lipa,"uk pop, dance pop, pop",57,221820,0.167,0.73,0.729,1.39e-06,0.349,-3.434,0.0886,113.012,0.467
+2020-09-03T07:52:58Z,Hypnotized,Hypnotized,2020-04-08,"Purple Disco Machine, Sophie and the Giants","house, deep house, sheffield indie",59,195657,0.0968,0.69,0.813,0.000324,0.109,-5.084,0.0997,108.078,0.704
+2020-07-22T17:49:50Z,Thinking out Loud,x (Deluxe Edition),2014-06-21,Ed Sheeran,"uk pop, singer-songwriter pop, pop",76,281560,0.474,0.781,0.445,0,0.184,-6.061,0.0295,78.998,0.591
+2020-07-16T17:41:32Z,Giugno,Giugno,2020-01-17,Tananai,"italian adult pop, italian pop",0,177750,0.602,0.597,0.436,0,0.304,-10.544,0.0465,124.871,0.486
+2020-07-07T07:01:57Z,Sirene,Sirene,2020-07-07,Levante,"italian adult pop, turin indie, italian pop",29,205652,0.406,0.53,0.733,4.66e-06,0.0879,-5.074,0.039,88.955,0.3
 2020-07-01T15:46:20Z,Blu,Latte di soia,2018-07-06,Postino,italian indie pop,0,231853,0.229,0.442,0.533,0,0.105,-5.577,0.0331,75.881,0.131
-2020-07-01T15:20:29Z,Questa Notte,Questa Notte,2018-10-26,Ex-Otago,"italian indie pop, rap napoletano, italian pop, indie liguria, italian alternative",23,185786,0.036,0.586,0.626,0,0.303,-6.956,0.0295,74.98,0.319
+2020-07-01T15:20:29Z,Questa Notte,Questa Notte,2018-10-26,Ex-Otago,"italian pop, italian alternative, italian indie pop, rap napoletano, indie liguria",19,185786,0.036,0.586,0.626,0,0.303,-6.956,0.0295,74.98,0.319
 2020-06-12T11:54:54Z,Chasing Pavements,19,2008-01-28,Adele,"pop soul, uk pop, pop, british soul",0,210506,0.291,0.614,0.47,0,0.111,-6.09,0.0255,80.045,0.329
-2020-06-06T16:39:13Z,Someone Like You,21,2011-01-19,Adele,"pop soul, uk pop, pop, british soul",2,285240,0.893,0.554,0.321,0,0.0996,-8.251,0.028,135.047,0.288
-2020-06-06T16:39:05Z,Frosinone,Mainstream (Deluxe Edition),2016-06-03,Calcutta ,"italian pop, rome indie",56,189440,0.153,0.576,0.555,0,0.343,-5.803,0.0281,145.869,0.543
-2020-06-06T15:30:43Z,Del verde,Mainstream (Deluxe Edition),2016-06-03,Calcutta ,"italian pop, rome indie",56,228480,0.807,0.529,0.21,7.16e-05,0.164,-9.372,0.0302,73.028,0.13
-2020-05-21T10:37:05Z,Riposa in pace (feat. Drast),Riposa in pace (feat. Drast),2020-04-29,"ARIETE, Drast","italian hip hop, rome indie, emo trap italiana, italian pop",37,156800,0.334,0.555,0.711,0,0.153,-4.922,0.0791,149.91,0.231
-2020-05-21T10:16:23Z,Amianto,Amianto,2020-04-23,ARIETE,"italian hip hop, rome indie, italian pop",0,179541,0.892,0.452,0.297,0,0.194,-14.231,0.0429,131.24,0.0929
-2020-05-15T18:28:21Z,Ora che ti guardo bene,Ora che ti guardo bene,2020-04-15,Gazzelle,"italian pop, rome indie, italian adult pop",0,172836,0.217,0.672,0.464,0.000129,0.103,-5.757,0.0407,79.996,0.289
-2020-05-14T17:48:10Z,Occhiaie,Occhiaie,2017-10-20,Galeffi,"italian indie pop, rome indie",0,203100,0.0116,0.474,0.793,0,0.0592,-3.898,0.0477,145.108,0.411
-2020-05-14T09:23:24Z,Abbi cura di te - Live,Nel Caos Di Stanze Stupefacenti LIVE 2017,2017-11-17,Levante,"italian pop, turin indie, italian adult pop",8,282936,0.971,0.308,0.567,0.0112,0.923,-17.221,0.298,116.825,0.147
-2020-05-04T16:14:05Z,Hurt Again,Inner Monologue Part 2,2019-06-28,Julia Michaels,pop,43,202320,0.252,0.826,0.701,1.74e-06,0.0936,-4.176,0.0497,129.975,0.783
+2020-06-06T16:39:13Z,Someone Like You,21,2011-01-19,Adele,"pop soul, uk pop, pop, british soul",1,285240,0.893,0.554,0.321,0,0.0996,-8.251,0.028,135.047,0.288
+2020-06-06T16:39:05Z,Frosinone,Mainstream (Deluxe Edition),2016-06-03,Calcutta ,"italian adult pop, rome indie, italian pop",51,189440,0.153,0.576,0.555,0,0.343,-5.803,0.0281,145.869,0.543
+2020-06-06T15:30:43Z,Del verde,Mainstream (Deluxe Edition),2016-06-03,Calcutta ,"italian adult pop, rome indie, italian pop",51,228480,0.807,0.529,0.21,7.16e-05,0.164,-9.372,0.0302,73.028,0.13
+2020-05-21T10:37:05Z,Riposa in pace (feat. Drast),Riposa in pace (feat. Drast),2020-04-29,"ARIETE, Drast","rome indie, emo trap italiana, italian hip hop, italian pop",32,156800,0.334,0.555,0.711,0,0.153,-4.922,0.0791,149.91,0.231
+2020-05-21T10:16:23Z,Amianto,Amianto,2020-04-23,ARIETE,"rome indie, italian hip hop, italian pop",0,179541,0.892,0.452,0.297,0,0.194,-14.231,0.0429,131.24,0.0929
+2020-05-15T18:28:21Z,Ora che ti guardo bene,Ora che ti guardo bene,2020-04-15,Gazzelle,"italian adult pop, rome indie, italian pop",0,172836,0.217,0.672,0.464,0.000129,0.103,-5.757,0.0407,79.996,0.289
+2020-05-14T17:48:10Z,Occhiaie,Occhiaie,2017-10-20,Galeffi,"rome indie, italian indie pop",0,203100,0.0116,0.474,0.793,0,0.0592,-3.898,0.0477,145.108,0.411
+2020-05-14T09:23:24Z,Abbi cura di te - Live,Nel Caos Di Stanze Stupefacenti LIVE 2017,2017-11-17,Levante,"italian adult pop, turin indie, italian pop",5,282936,0.971,0.308,0.567,0.0112,0.923,-17.221,0.298,116.825,0.147
+2020-05-04T16:14:05Z,Hurt Again,Inner Monologue Part 2,2019-06-28,Julia Michaels,pop,38,202320,0.252,0.826,0.701,1.74e-06,0.0936,-4.176,0.0497,129.975,0.783
 2020-05-03T17:07:36Z,"I miss you, I’m sorry","I miss you, I’m sorry",2020-04-08,Gracie Abrams,alt z,0,167538,0.734,0.617,0.451,1.56e-06,0.128,-6.096,0.0481,109.757,0.161
-2020-04-22T13:57:20Z,Someone New,Goddess (Deluxe),2014-01-01,BANKS,"indie poptimism, electropop, indietronica, shimmer pop, art pop",16,281017,0.923,0.581,0.225,0.000216,0.117,-12.764,0.0333,87.12,0.373
+2020-04-22T13:57:20Z,Someone New,Goddess (Deluxe),2014-01-01,BANKS,"electropop, art pop, shimmer pop, indie poptimism, indietronica",11,281017,0.923,0.581,0.225,0.000216,0.117,-12.764,0.0333,87.12,0.373
 2020-04-17T18:16:33Z,Don't Forget About Me,Me Before You (Original Motion Picture Soundtrack),2016-06-03,CLOVES,australian alternative pop,0,268973,0.833,0.509,0.209,0.00282,0.159,-10.726,0.0324,126.741,0.0668
-2020-04-17T12:51:23Z,Sorry,Sorry,2016-11-11,Aquilo,"indie anthem-folk, uk pop, vapor soul",0,255205,0.708,0.325,0.3,0,0.128,-11.355,0.0528,173.583,0.158
-2020-04-15T09:13:50Z,Hurt,Light up the Dark,2015-09-18,Gabrielle Aplin,"acoustic pop, neo-singer-songwriter, uk pop, indie anthem-folk, viral pop",22,253493,0.136,0.538,0.508,0.0466,0.0993,-8.833,0.03,115.982,0.358
-2020-04-13T18:38:59Z,Half As Good As You (feat. Alice Merton),Jubilee Road (Expanded Edition),2018-10-26,"Tom Odell, Alice Merton",chill pop,48,210859,0.687,0.602,0.431,0,0.108,-5.03,0.032,82.958,0.419
-2020-04-13T18:01:52Z,In Vain,Sucker Punch,2019-03-08,Sigrid,"electropop, norwegian pop",33,247962,0.369,0.624,0.365,0,0.357,-7.78,0.0395,76.764,0.359
-2020-04-13T16:50:17Z,What We Had,What We Had,2019-11-15,Sody,"alt z, uk pop",0,182813,0.953,0.655,0.449,0.000375,0.109,-7.437,0.0418,123.842,0.261
-2020-04-13T11:22:08Z,Lose You To Love Me,Lose You To Love Me,2019-10-23,Selena Gomez,"pop, post-teen pop",22,206458,0.579,0.4,0.341,0,0.21,-9.0,0.0521,102.744,0.0852
-2020-04-13T08:26:29Z,Maybe It Was Me,Maybe It Was Me,2018-09-28,Sody,"alt z, uk pop",44,179320,0.729,0.457,0.333,0,0.166,-9.76,0.131,166.463,0.251
-2020-04-11T17:28:53Z,Oceans,Oceans - EP,2015-01-21,Seafret,folk-pop,48,216186,0.274,0.404,0.48,8.63e-06,0.132,-8.906,0.0303,129.162,0.2
+2020-04-17T12:51:23Z,Sorry,Sorry,2016-11-11,Aquilo,"uk pop, vapor soul, indie anthem-folk",0,255205,0.708,0.325,0.3,0,0.128,-11.355,0.0528,173.583,0.158
+2020-04-15T09:13:50Z,Hurt,Light up the Dark,2015-09-18,Gabrielle Aplin,"uk pop, acoustic pop, viral pop, neo-singer-songwriter, indie anthem-folk",17,253493,0.136,0.538,0.508,0.0466,0.0993,-8.833,0.03,115.982,0.358
+2020-04-13T18:38:59Z,Half As Good As You (feat. Alice Merton),Jubilee Road (Expanded Edition),2018-10-26,"Tom Odell, Alice Merton",chill pop,43,210859,0.687,0.602,0.431,0,0.108,-5.03,0.032,82.958,0.419
+2020-04-13T18:01:52Z,In Vain,Sucker Punch,2019-03-08,Sigrid,"electropop, norwegian pop",28,247962,0.369,0.624,0.365,0,0.357,-7.78,0.0395,76.764,0.359
+2020-04-13T16:50:17Z,What We Had,What We Had,2019-11-15,Sody,"uk pop, alt z",0,182813,0.953,0.655,0.449,0.000375,0.109,-7.437,0.0418,123.842,0.261
+2020-04-13T11:22:08Z,Lose You To Love Me,Lose You To Love Me,2019-10-23,Selena Gomez,"post-teen pop, pop",18,206458,0.579,0.4,0.341,0,0.21,-9.0,0.0521,102.744,0.0852
+2020-04-13T08:26:29Z,Maybe It Was Me,Maybe It Was Me,2018-09-28,Sody,"uk pop, alt z",39,179320,0.729,0.457,0.333,0,0.166,-9.76,0.131,166.463,0.251
+2020-04-11T17:28:53Z,Oceans,Oceans - EP,2015-01-21,Seafret,folk-pop,43,216186,0.274,0.404,0.48,8.63e-06,0.132,-8.906,0.0303,129.162,0.2
 2020-04-11T17:15:53Z,Julia,~how i'm feeling~,2020-03-06,Lauv,pop,0,218000,0.907,0.458,0.13,0,0.164,-14.575,0.0805,162.311,0.333
-2020-04-08T13:21:14Z,Favourite Ex,Favourite Ex,2019-04-12,Maisie Peters,"alt z, uk pop",54,201694,0.718,0.396,0.177,0,0.139,-10.277,0.0378,177.215,0.221
-2020-04-08T09:42:47Z,Anyone,Anyone,2020-01-27,Demi Lovato,"pop, post-teen pop",47,227813,0.876,0.505,0.387,0,0.111,-6.338,0.0382,127.126,0.314
-2020-04-08T08:36:47Z,Heart Like Yours,If I Stay (Original Motion Picture Soundtrack),2014-08-22,Willamette Stone,pop,55,199960,0.874,0.465,0.259,0,0.102,-9.849,0.0318,93.301,0.337
-2020-04-08T08:28:52Z,Dancing With Your Ghost,Dancing With Your Ghost,2019-06-28,Sasha Alex Sloan,alt z,76,197732,0.768,0.629,0.328,2.5e-05,0.103,-8.284,0.029,74.953,0.389
-2020-04-07T20:50:36Z,You Said You'd Grow Old With Me,Wide Awake,2012-09-28,Michael Schulte,"german pop, talentschau",59,224743,0.905,0.531,0.347,0,0.0935,-7.044,0.0345,114.441,0.289
-2020-04-07T18:20:40Z,The Scientist,A Rush of Blood to the Head,2002-08-08,Coldplay,"permanent wave, pop",85,309600,0.731,0.557,0.442,1.46e-05,0.11,-7.224,0.0243,146.277,0.213
-2020-04-07T18:17:10Z,Naked,Naked,2017-11-24,James Arthur,"uk pop, pop, talent show",65,234106,0.104,0.529,0.607,0,0.0631,-6.781,0.0574,101.966,0.238
+2020-04-08T13:21:14Z,Favourite Ex,Favourite Ex,2019-04-12,Maisie Peters,"uk pop, alt z",50,201694,0.718,0.396,0.177,0,0.139,-10.277,0.0378,177.215,0.221
+2020-04-08T09:42:47Z,Anyone,Anyone,2020-01-27,Demi Lovato,"post-teen pop, pop",42,227813,0.876,0.505,0.387,0,0.111,-6.338,0.0382,127.126,0.314
+2020-04-08T08:36:47Z,Heart Like Yours,If I Stay (Original Motion Picture Soundtrack),2014-08-22,Willamette Stone,,50,199960,0.874,0.465,0.259,0,0.102,-9.849,0.0318,93.301,0.337
+2020-04-08T08:28:52Z,Dancing With Your Ghost,Dancing With Your Ghost,2019-06-28,Sasha Alex Sloan,alt z,71,197732,0.768,0.629,0.328,2.5e-05,0.103,-8.284,0.029,74.953,0.389
+2020-04-07T20:50:36Z,You Said You'd Grow Old With Me,Wide Awake,2012-09-28,Michael Schulte,"talentschau, german pop",54,224743,0.905,0.531,0.347,0,0.0935,-7.044,0.0345,114.441,0.289
+2020-04-07T18:20:40Z,The Scientist,A Rush of Blood to the Head,2002-08-27,Coldplay,"permanent wave, pop",80,309600,0.731,0.557,0.442,1.46e-05,0.11,-7.224,0.0243,146.277,0.213
+2020-04-07T18:17:10Z,Naked,Naked,2017-11-24,James Arthur,"uk pop, talent show, pop",60,234106,0.104,0.529,0.607,0,0.0631,-6.781,0.0574,101.966,0.238
 2020-04-07T18:07:40Z,Jealous,Jealous,2014-11-21,Labrinth,"indie poptimism, pop",0,287693,0.874,0.439,0.153,0,0.107,-8.95,0.0479,116.76,0.104
-2020-04-07T18:01:46Z,Heal,Long Way Down (Deluxe),2013-06-24,Tom Odell,chill pop,72,193080,0.952,0.445,0.179,0.00056,0.107,-12.938,0.0396,72.246,0.119
+2020-04-07T18:01:46Z,Heal,Long Way Down (Deluxe),2013-06-24,Tom Odell,chill pop,67,193080,0.952,0.445,0.179,0.00056,0.107,-12.938,0.0396,72.246,0.119
 2020-04-07T12:02:50Z,Where's My Love,Where's My Love,2016-01-21,SYML,modern indie pop,0,248332,0.911,0.39,0.211,0.0109,0.108,-11.796,0.0312,103.79,0.144
-2020-04-07T11:21:11Z,Sorry,hopeless fountain kingdom (Deluxe),2017-06-02,Halsey,"indie poptimism, electropop, pop, etherpop",0,220540,0.912,0.447,0.257,0,0.117,-9.172,0.0394,136.87,0.32
-2020-04-07T11:06:59Z,Someone to Break Your Heart,Someone to Break Your Heart,2019-12-13,Emma Jensen,indie,0,199647,0.877,0.622,0.229,7.66e-06,0.069,-12.109,0.0648,119.889,0.293
-2020-04-07T10:45:05Z,Complicated,Complicated,2015-08-09,Olivia O'Brien,"alt z, pop",2,189000,0.694,0.657,0.355,0.000427,0.123,-12.044,0.0714,74.99,0.0808
-2020-03-01T18:04:40Z,Fuoricontesto,Please Wait,2020-01-10,Meli,italian indie pop,13,176101,0.632,0.771,0.668,0,0.17,-4.933,0.0397,150.116,0.543
-2020-03-01T16:09:40Z,Non ci sei più,Non ci sei più,2020-01-24,Mameli,"italian pop, italian indie pop",25,180000,0.289,0.608,0.548,0,0.356,-5.898,0.0313,128.004,0.31
-2020-03-01T10:59:11Z,Come la luna,Come la luna,2019-11-08,Management,"indie rock italiano, italian indie pop, italian alternative",20,185704,0.703,0.64,0.312,0,0.101,-12.638,0.0312,83.061,0.472
-2020-03-01T10:53:32Z,IL CIELO DI ROMA,EX VOTO,2019-09-27,AIELLO,italian pop,39,192653,0.233,0.692,0.547,0,0.122,-7.301,0.2,140.032,0.672
-2020-03-01T10:45:55Z,Settebello,Settebello,2020-02-28,Galeffi,"italian indie pop, rome indie",20,199000,0.17,0.521,0.541,0,0.0671,-6.512,0.0323,163.881,0.335
-2020-02-28T19:40:49Z,ocean eyes,dont smile at me,2017-12-22,Billie Eilish,"pop, art pop",83,200379,0.816,0.511,0.363,0.0317,0.084,-7.65,0.041,144.892,0.169
-2020-02-20T19:04:53Z,Six Feet Under,Six Feet Under,2016-11-17,Billie Eilish,"pop, art pop",73,189613,0.807,0.576,0.307,0.000355,0.0792,-12.732,0.0428,67.513,0.157
-2020-02-20T16:11:06Z,i love you,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,Billie Eilish,"pop, art pop",81,291796,0.952,0.421,0.131,0.00453,0.109,-18.435,0.0382,137.446,0.12
-2020-02-20T16:01:57Z,listen before i go,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,Billie Eilish,"pop, art pop",75,242652,0.935,0.319,0.0561,0.00384,0.388,-23.023,0.045,79.764,0.082
-2020-01-27T19:26:48Z,Gaetano,Mainstream (Deluxe Edition),2016-06-03,Calcutta ,"italian pop, rome indie",59,242320,0.752,0.609,0.483,3.96e-06,0.264,-7.778,0.0287,139.908,0.254
+2020-04-07T11:21:11Z,Sorry,hopeless fountain kingdom (Deluxe),2017-06-02,Halsey,"electropop, indie poptimism, pop, etherpop",0,220540,0.912,0.447,0.257,0,0.117,-9.172,0.0394,136.87,0.32
+2020-04-07T11:06:59Z,Someone to Break Your Heart,Someone to Break Your Heart,2019-12-13,Emma Jensen,,0,199647,0.877,0.622,0.229,7.66e-06,0.069,-12.109,0.0648,119.889,0.293
+2020-04-07T10:45:05Z,Complicated,Complicated,2015-08-09,Olivia O'Brien,"alt z, pop",1,189000,0.694,0.657,0.355,0.000427,0.123,-12.044,0.0714,74.99,0.0808
+2020-03-01T18:04:40Z,Fuoricontesto,Please Wait,2020-01-10,Meli,italian indie pop,9,176101,0.632,0.771,0.668,0,0.17,-4.933,0.0397,150.116,0.543
+2020-03-01T16:09:40Z,Non ci sei più,Non ci sei più,2020-01-24,Mameli,"italian indie pop, italian pop",20,180000,0.289,0.608,0.548,0,0.356,-5.898,0.0313,128.004,0.31
+2020-03-01T10:59:11Z,Come la luna,Come la luna,2019-11-08,Management,"indie rock italiano, italian indie pop, italian alternative",15,185704,0.703,0.64,0.312,0,0.101,-12.638,0.0312,83.061,0.472
+2020-03-01T10:53:32Z,IL CIELO DI ROMA,EX VOTO,2019-09-27,AIELLO,italian pop,34,192653,0.233,0.692,0.547,0,0.122,-7.301,0.2,140.032,0.672
+2020-03-01T10:45:55Z,Settebello,Settebello,2020-02-28,Galeffi,"rome indie, italian indie pop",16,199000,0.17,0.521,0.541,0,0.0671,-6.512,0.0323,163.881,0.335
+2020-02-28T19:40:49Z,ocean eyes,dont smile at me,2017-12-22,Billie Eilish,"art pop, pop",78,200379,0.816,0.511,0.363,0.0317,0.084,-7.65,0.041,144.892,0.169
+2020-02-20T19:04:53Z,Six Feet Under,Six Feet Under,2016-11-17,Billie Eilish,"art pop, pop",68,189613,0.807,0.576,0.307,0.000355,0.0792,-12.732,0.0428,67.513,0.157
+2020-02-20T16:11:06Z,i love you,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,Billie Eilish,"art pop, pop",75,291796,0.952,0.421,0.131,0.00453,0.109,-18.435,0.0382,137.446,0.12
+2020-02-20T16:01:57Z,listen before i go,"WHEN WE ALL FALL ASLEEP, WHERE DO WE GO?",2019-03-29,Billie Eilish,"art pop, pop",70,242652,0.935,0.319,0.0561,0.00384,0.388,-23.023,0.045,79.764,0.082
+2020-01-27T19:26:48Z,Gaetano,Mainstream (Deluxe Edition),2016-06-03,Calcutta ,"italian adult pop, rome indie, italian pop",54,242320,0.752,0.609,0.483,3.96e-06,0.264,-7.778,0.0287,139.908,0.254
 2020-01-22T16:58:31Z,Mi fai venire,Mi fai venire,2019-09-27,Postino,italian indie pop,0,192502,0.28,0.583,0.53,0,0.186,-6.981,0.0478,75.978,0.312
-2020-01-15T20:27:05Z,Senza Di Me (feat. Venerus & Franco126),Senza Di Me,2018-12-21,"Gemitaiz, Venerus, Franco126","indie rock italiano, italian hip hop, r&b italiano, milan indie, italian indie pop, rome indie, italian pop",61,201961,0.167,0.698,0.636,0,0.125,-5.844,0.034,107.282,0.313
-2020-01-09T11:16:22Z,Per due che come noi,Per due che come noi,2019-12-13,Brunori Sas,"folk rock italiano, italian adult pop, italian indie pop, italian pop, italian alternative",0,227680,0.655,0.47,0.497,1.07e-06,0.166,-6.883,0.0372,137.643,0.307
-2020-01-05T17:43:16Z,Scudo,Scudo,2019-08-30,Gio Evan,"italian pop, italian indie pop",0,242400,0.191,0.555,0.589,3.3e-06,0.126,-7.361,0.0551,173.983,0.36
-2019-12-31T15:41:47Z,Cuori d'artificio,Manuale Distruzione,2014-03-11,Levante,"italian pop, turin indie, italian adult pop",0,281346,0.0646,0.571,0.503,7.04e-06,0.128,-5.694,0.0276,125.025,0.274
-2019-12-02T21:21:30Z,Una canzone che non so,Post Punk,2019-10-25,Gazzelle,"italian pop, rome indie, italian adult pop",0,185173,0.384,0.705,0.502,0,0.123,-6.612,0.0262,119.862,0.548
-2019-10-04T15:57:32Z,Reali,Magmamemoria,2019-10-04,Levante,"italian pop, turin indie, italian adult pop",0,212538,0.263,0.713,0.658,0,0.127,-7.063,0.0815,94.025,0.72
-2019-10-04T15:57:27Z,Arcano 13,Magmamemoria,2019-10-04,Levante,"italian pop, turin indie, italian adult pop",0,195268,0.994,0.722,0.0329,0.0112,0.131,-20.675,0.0469,67.331,0.0743
-2019-04-18T18:18:54Z,Abbi cura di te,Abbi cura di te,2015-05-05,Levante,"italian pop, turin indie, italian adult pop",36,248960,0.782,0.646,0.29,4.17e-05,0.101,-7.677,0.0328,113.908,0.109
+2020-01-15T20:27:05Z,Senza Di Me (feat. Venerus & Franco126),Senza Di Me,2018-12-21,"Gemitaiz, Venerus, Franco126","italian pop, r&b italiano, rome indie, indie rock italiano, milan indie, italian indie pop, italian hip hop",56,201961,0.167,0.698,0.636,0,0.125,-5.844,0.034,107.282,0.313
+2020-01-09T11:16:22Z,Per due che come noi,Per due che come noi,2019-12-13,Brunori Sas,"italian pop, italian adult pop, italian alternative, italian indie pop, folk rock italiano",0,227680,0.655,0.47,0.497,1.07e-06,0.166,-6.883,0.0372,137.643,0.307
+2020-01-05T17:43:16Z,Scudo,Scudo,2019-08-30,Gio Evan,"italian indie pop, italian pop",0,242400,0.191,0.555,0.589,3.3e-06,0.126,-7.361,0.0551,173.983,0.36
+2019-12-31T15:41:47Z,Cuori d'artificio,Manuale Distruzione,2014-03-11,Levante,"italian adult pop, turin indie, italian pop",0,281346,0.0646,0.571,0.503,7.04e-06,0.128,-5.694,0.0276,125.025,0.274
+2019-12-02T21:21:30Z,Una canzone che non so,Post Punk,2019-10-25,Gazzelle,"italian adult pop, rome indie, italian pop",0,185173,0.384,0.705,0.502,0,0.123,-6.612,0.0262,119.862,0.548
+2019-10-04T15:57:32Z,Reali,Magmamemoria,2019-10-04,Levante,"italian adult pop, turin indie, italian pop",0,212538,0.263,0.713,0.658,0,0.127,-7.063,0.0815,94.025,0.72
+2019-10-04T15:57:27Z,Arcano 13,Magmamemoria,2019-10-04,Levante,"italian adult pop, turin indie, italian pop",0,195268,0.994,0.722,0.0329,0.0112,0.131,-20.675,0.0469,67.331,0.0743
+2019-04-18T18:18:54Z,Abbi cura di te,Abbi cura di te,2015-05-05,Levante,"italian adult pop, turin indie, italian pop",30,248960,0.782,0.646,0.29,4.17e-05,0.101,-7.677,0.0328,113.908,0.109
