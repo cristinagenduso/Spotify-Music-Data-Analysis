@@ -19,7 +19,7 @@ Tools Used🛠️:
 
 <ul>
 	<li>Programming Language: Python<br /></li>
-	<li>Libraries: Pandas, Numpy, Matplotlib, Seaborn, Plotly Express<br /></li>
+	<li>Libraries: Pandas, Numpy, Matplotlib, Seaborn<br /></li>
 	<li>IDE: Jupyter Notebook<br /></li>
 	<li>Dataset: Personal Spotify Dataset</li>
 </ul>
@@ -31,7 +31,6 @@ import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
-import plotly.express as px
 ```
 
 <ul>
@@ -55,12 +54,6 @@ import plotly.express as px
 		<code>import seaborn as sns</code>: This imports the Seaborn library and
 		aliases it as 'sns'. Seaborn is built on top of Matplotlib and offers a
 		higher-level interface for creating attractive statistical visualizations.
-	</li>
-	<li>
-		<code>import plotly.express as px</code>: This imports the Plotly Express
-		module from the Plotly library and aliases it as 'px'. Plotly Express is a
-		built-in part of the plotly library, and is the recommended starting point
-		for creating most common figures.
 	</li>
 </ul>
 
